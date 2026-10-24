@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Abhinaba Chanda — GitHub profile banner. From India. Focus: Web Development, Python and AI. Currently learning JavaScript and Python. Passionate about web development and programming. GitHub: abhinaba-chanda. Email: abhinabachanda491@gmail.com." font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace">
+<title>Abhinaba Chanda · Web Development · Python · AI</title>
+<desc>Abhinaba Chanda — GitHub profile banner. From India. Focus: Web Development, Python and AI. Currently learning JavaScript and Python. Passionate about web development and programming. GitHub: abhinaba-chanda. Email: abhinabachanda491@gmail.com.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".55" stop-color="#F8FAFC"/><stop offset="1" stop-color="#EEF6FF"/></linearGradient>
+<radialGradient id="orb1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 170) scale(420)"><stop offset="0" stop-color="#2563EB" stop-opacity=".18"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="orb2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 470) scale(460)"><stop offset="0" stop-color="#0891B2" stop-opacity=".16"/><stop offset="1" stop-color="#0891B2" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="orb3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(640 600) scale(300)"><stop offset="0" stop-color="#059669" stop-opacity="0.11"/><stop offset="1" stop-color="#059669" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563EB"/><stop offset=".5" stop-color="#0891B2"/><stop offset="1" stop-color="#059669"/></linearGradient>
+<linearGradient id="accentMove" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1180" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#2563EB"/><stop offset=".5" stop-color="#0891B2"/><stop offset="1" stop-color="#059669"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="0 0;-590 0;0 0" dur="14s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="asciiGrad" gradientUnits="userSpaceOnUse" x1="76" y1="0" x2="412" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#2563EB"/><stop offset=".5" stop-color="#0891B2"/><stop offset="1" stop-color="#059669"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="0 0;336 0;0 0" dur="10s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="shimmer" gradientUnits="userSpaceOnUse" x1="-400" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#0891B2" stop-opacity="0"/><stop offset=".5" stop-color="#0891B2" stop-opacity=".9"/><stop offset="1" stop-color="#0891B2" stop-opacity="0"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="0 0;1580 0" dur="7s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="glassHi" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".7"/><stop offset=".35" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0891B2" stop-opacity="0"/><stop offset=".5" stop-color="#0891B2" stop-opacity=".14"/><stop offset="1" stop-color="#0891B2" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity=".18" stroke-width="1"/></pattern>
+<pattern id="lines" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#0F172A" fill-opacity=".02"/></pattern>
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0F172A" flood-opacity=".10"/></filter>
+<filter id="noise" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch" result="n"/><feColorMatrix type="matrix" values="0 0 0 0 .5  0 0 0 0 .5  0 0 0 0 .5  0 0 0 .035 0"/></filter>
+<clipPath id="frameClip"><rect x="8" y="8" width="1164" height="594" rx="24"/></clipPath>
+<clipPath id="asciiClip"><rect x="48" y="120" width="392" height="290" rx="12"/></clipPath>
+
+</defs>
+<g clip-path="url(#frameClip)">
+<rect x="8" y="8" width="1164" height="594" fill="url(#bg)"/>
+<rect x="8" y="8" width="1164" height="594" fill="url(#grid)"/>
+<rect x="-120" y="-120" width="1420" height="850" fill="url(#orb1)"><animateTransform attributeName="transform" type="translate" values="0 0;60 30;0 0" dur="18s" repeatCount="indefinite"/></rect>
+<rect x="-120" y="-120" width="1420" height="850" fill="url(#orb2)"><animateTransform attributeName="transform" type="translate" values="0 0;-70 -20;0 0" dur="22s" repeatCount="indefinite"/></rect>
+<rect x="8" y="8" width="1164" height="594" fill="url(#orb3)"/>
+<rect x="8" y="8" width="1164" height="594" filter="url(#noise)"/>
+<circle cx="389" cy="148" r="1" fill="#0891B2" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -30;0 0" dur="9.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="6.7s" repeatCount="indefinite"/></circle>
+<circle cx="684" cy="543" r="1" fill="#2563EB" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -28;0 0" dur="9.3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="6.5s" repeatCount="indefinite"/></circle>
+<circle cx="294" cy="357" r="1" fill="#2563EB" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -21;0 0" dur="14.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="10.4s" repeatCount="indefinite"/></circle>
+<circle cx="739" cy="373" r="1" fill="#2563EB" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -27;0 0" dur="13.0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="9.1s" repeatCount="indefinite"/></circle>
+<circle cx="73" cy="516" r="1.2" fill="#059669" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -30;0 0" dur="11.9s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="8.4s" repeatCount="indefinite"/></circle>
+<circle cx="372" cy="494" r="1" fill="#2563EB" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -31;0 0" dur="9.7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="6.8s" repeatCount="indefinite"/></circle>
+<circle cx="445" cy="355" r="1" fill="#0891B2" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -32;0 0" dur="13.0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="9.1s" repeatCount="indefinite"/></circle>
+<circle cx="796" cy="292" r="1.2" fill="#0891B2" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -38;0 0" dur="12.3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="8.6s" repeatCount="indefinite"/></circle>
+<circle cx="362" cy="483" r="1" fill="#0891B2" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -25;0 0" dur="9.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="6.7s" repeatCount="indefinite"/></circle>
+<circle cx="1018" cy="449" r="1.2" fill="#059669" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -20;0 0" dur="13.3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="9.3s" repeatCount="indefinite"/></circle>
+<circle cx="497" cy="464" r="1" fill="#059669" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -27;0 0" dur="15.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="10.9s" repeatCount="indefinite"/></circle>
+<circle cx="108" cy="360" r="1.2" fill="#0891B2" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -26;0 0" dur="11.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="8.0s" repeatCount="indefinite"/></circle>
+<circle cx="681" cy="307" r="1" fill="#059669" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -28;0 0" dur="15.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="10.9s" repeatCount="indefinite"/></circle>
+<circle cx="94" cy="450" r="1.2" fill="#0891B2" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -40;0 0" dur="13.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="9.5s" repeatCount="indefinite"/></circle>
+<circle cx="344" cy="271" r="1.2" fill="#2563EB" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -28;0 0" dur="9.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="6.4s" repeatCount="indefinite"/></circle>
+<circle cx="716" cy="327" r="1" fill="#2563EB" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;0 -21;0 0" dur="14.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.1;.35" dur="10.1s" repeatCount="indefinite"/></circle>
+</g>
+<rect x="8.5" y="8.5" width="1163" height="593" rx="24" fill="none" stroke="#CBD5E1" stroke-opacity=".9"/>
+<rect x="8.5" y="8.5" width="1163" height="593" rx="24" fill="none" stroke="url(#shimmer)" stroke-width="1.2" opacity=".8"/>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.0000;1" dur="0.50s" fill="freeze"/>
+<path d="M8 56V32a24 24 0 0 1 24-24h1116a24 24 0 0 1 24 24v24z" fill="#FFFFFF" fill-opacity=".75"/>
+<line x1="8" y1="56" x2="1172" y2="56" stroke="#CBD5E1"/>
+<circle cx="38" cy="32" r="6" fill="#FF5F57"/>
+<circle cx="58" cy="32" r="6" fill="#FEBC2E"/>
+<circle cx="78" cy="32" r="6" fill="#28C840"/>
+<text x="590" y="36.5" text-anchor="middle" font-size="13" fill="#475569">abhinaba-chanda<tspan fill="#64748B">@</tspan>github<tspan fill="#64748B">:~</tspan></text>
+<rect x="118" y="22" width="60" height="20" rx="6" fill="#0891B2" fill-opacity=".10" stroke="#0891B2" stroke-opacity=".35"/>
+<text x="147.8" y="36" text-anchor="middle" font-size="11" fill="#2563EB" letter-spacing=".5">README</text>
+<text x="228.6" y="36" text-anchor="middle" font-size="11" fill="#64748B" letter-spacing=".5">VISUAL.MAP</text>
+<text x="325.9" y="36" text-anchor="middle" font-size="11" fill="#64748B" letter-spacing=".5">SYSTEM.INFO</text>
+<rect x="1058" y="21" width="92" height="22" rx="11" fill="#059669" fill-opacity=".10" stroke="#059669" stroke-opacity=".45"/>
+<circle cx="1074" cy="32" r="3.5" fill="#059669"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="1084" y="36" font-size="11" font-weight="700" fill="#059669" letter-spacing="1">ONLINE</text>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.2941;1" dur="0.85s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 8;0 0" keyTimes="0;0.2941;1" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .7 .2 1"/>
+<g filter="url(#soft)"><rect x="32" y="76" width="424" height="502" rx="18" fill="#FFFFFF" fill-opacity=".62"/></g>
+<rect x="32" y="76" width="424" height="502" rx="18" fill="url(#glassHi)"/>
+<rect x="32.5" y="76.5" width="423" height="501" rx="17.5" fill="none" stroke="#CBD5E1" stroke-opacity=".9"/>
+<line x1="56" y1="76.5" x2="432" y2="76.5" stroke="url(#accentMove)" stroke-opacity=".7"/>
+<circle cx="56" cy="102" r="3" fill="#0891B2"/>
+<text x="68" y="106" font-size="12" font-weight="700" fill="#0F172A" letter-spacing="2">VISUAL.MAP</text>
+<text x="432" y="106" text-anchor="end" font-size="11" fill="#64748B" letter-spacing="1">[ PROFILE / DEV ]</text>
+<line x1="56" y1="120" x2="432" y2="120" stroke="#CBD5E1"/>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5556;1" dur="0.90s" fill="freeze"/><rect x="48" y="128" width="392" height="290" rx="12" fill="#FFFFFF" fill-opacity=".55" stroke="#CBD5E1" stroke-opacity=".7"/>
+<path d="M56 146V136H66" fill="none" stroke="#0891B2" stroke-opacity=".6" stroke-width="1.2"/>
+<path d="M432 146V136H422" fill="none" stroke="#0891B2" stroke-opacity=".6" stroke-width="1.2"/>
+<path d="M56 400V410H66" fill="none" stroke="#0891B2" stroke-opacity=".6" stroke-width="1.2"/>
+<path d="M432 400V410H422" fill="none" stroke="#0891B2" stroke-opacity=".6" stroke-width="1.2"/>
+</g>
+<g clip-path="url(#asciiClip)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="6s" repeatCount="indefinite"/>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="142" font-size="10" fill="#94A3B8" xml:space="preserve">                        ..·.·...                        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.667;1" dur="1.05s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="153" font-size="10" fill="#94A3B8" xml:space="preserve">                  .·::::.·...·.·::::..                  <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.680;1" dur="1.09s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="164" font-size="10" fill="#94A3B8" xml:space="preserve">               .:+:.  ............. .:+:.               <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.693;1" dur="1.14s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="175" font-size="10" fill="#94A3B8" xml:space="preserve">             ·+:. ....            .... .:+.             <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.705;1" dur="1.19s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="186" font-size="10" fill="#94A3B8" xml:space="preserve">           .+:.....  ..............   ... :+·           <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.715;1" dur="1.23s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="197" font-size="10" fill="#94A3B8" xml:space="preserve">          .+. ..  ....................  ....+:          <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.725;1" dur="1.27s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="208" font-size="10" fill="#94A3B8" xml:space="preserve">         +: ..  ............................ .+         <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.735;1" dur="1.32s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="219" font-size="10" fill="#94A3B8" xml:space="preserve">        :: .. .      +.............+         +:+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.744;1" dur="1.36s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="219" font-size="10" font-weight="700" fill="url(#asciiGrad)" xml:space="preserve">               #%%%%%               #%%@@@%%*           <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.744;1" dur="1.36s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="230" font-size="10" fill="#94A3B8" xml:space="preserve">       .+ ..          ·.........+             :::       <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.752;1" dur="1.41s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="230" font-size="10" font-weight="700" fill="url(#asciiGrad)" xml:space="preserve">              *@@@@@@@           %@@@@@@%%@@@@          <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.752;1" dur="1.41s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="241" font-size="10" fill="#94A3B8" xml:space="preserve">        . .  ·         ........      +......: .. .      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.759;1" dur="1.46s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="241" font-size="10" font-weight="700" fill="url(#asciiGrad)" xml:space="preserve">       *      @@@@@@@@%        #@@@@%        *  *       <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.759;1" dur="1.46s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="252" font-size="10" fill="#94A3B8" xml:space="preserve">      ·+ .. .     ·     ..·.·.      ........  . ::      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.767;1" dur="1.50s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="252" font-size="10" font-weight="700" fill="url(#asciiGrad)" xml:space="preserve">             %@@@# @@@@*      *@@@@#                    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.767;1" dur="1.50s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="263" font-size="10" fill="#94A3B8" xml:space="preserve">      +: ·       ·.     :·.·.·     ·........  . .       <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.773;1" dur="1.54s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="263" font-size="10" font-weight="700" fill="url(#asciiGrad)" xml:space="preserve">            *@@@@  *@@@@      @@@@@              *      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.773;1" dur="1.54s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="274" font-size="10" fill="#94A3B8" xml:space="preserve">      +. . .     ...     .·.·.     .........  · .       <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.780;1" dur="1.59s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="274" font-size="10" font-weight="700" fill="url(#asciiGrad)" xml:space="preserve">            @@@@*   %@@@%     @@@@@              *      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.780;1" dur="1.59s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="285" font-size="10" fill="#94A3B8" xml:space="preserve">      +· ·.     .·.·:     .·.·     ·........  . .       <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.786;1" dur="1.63s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="285" font-size="10" font-weight="700" fill="url(#asciiGrad)" xml:space="preserve">           %@@@%     @@@@*    @@@@@              *      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.786;1" dur="1.63s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="296" font-size="10" fill="#94A3B8" xml:space="preserve">      ·+ .                :.·.      ........  . ::      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.792;1" dur="1.68s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="296" font-size="10" font-weight="700" fill="url(#asciiGrad)" xml:space="preserve">          *@@@@@@@@@@@@@@@    *@@@@#                    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.792;1" dur="1.68s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="307" font-size="10" fill="#94A3B8" xml:space="preserve">      . .:                 ·...      +......: .  .      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.797;1" dur="1.73s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="307" font-size="10" font-weight="700" fill="url(#asciiGrad)" xml:space="preserve">       *  @@@@%%%%%%%%@@@@%    #@@@@%        *  *       <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.797;1" dur="1.73s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="318" font-size="10" fill="#94A3B8" xml:space="preserve">       .+     ........:     ....+             :::       <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.802;1" dur="1.77s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="318" font-size="10" font-weight="700" fill="url(#asciiGrad)" xml:space="preserve">         %@@@%         @@@@*     %@@@@@%%%%@@@          <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.802;1" dur="1.77s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="329" font-size="10" fill="#94A3B8" xml:space="preserve">             : ........     .......+         :.         <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.807;1" dur="1.81s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="329" font-size="10" font-weight="700" fill="url(#asciiGrad)" xml:space="preserve">        *%%%%          *%###        ##%%%%%#*  *        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.807;1" dur="1.81s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="340" font-size="10" fill="#94A3B8" xml:space="preserve">         +: ..  ............................ .+.        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.812;1" dur="1.86s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="351" font-size="10" fill="#94A3B8" xml:space="preserve">          :+....  ....................  ... :+          <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.816;1" dur="1.90s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="362" font-size="10" fill="#94A3B8" xml:space="preserve">           .+. ...   ..............   ... ·+·           <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.821;1" dur="1.95s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="373" font-size="10" fill="#94A3B8" xml:space="preserve">             ·+:. ....            .......+.             <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.825;1" dur="2.00s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="384" font-size="10" fill="#94A3B8" xml:space="preserve">               .:+:. .............. ..++·               <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.828;1" dur="2.04s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="395" font-size="10" fill="#94A3B8" xml:space="preserve">                  .:::::.......·.::::.                  <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.832;1" dur="2.08s" fill="freeze"/></text>
+<text x="76 82 88 94 100 106 112 118 124 130 136 142 148 154 160 166 172 178 184 190 196 202 208 214 220 226 232 238 244 250 256 262 268 274 280 286 292 298 304 310 316 322 328 334 340 346 352 358 364 370 376 382 388 394 400 406" y="406" font-size="10" fill="#94A3B8" xml:space="preserve">                       ...·.:.·..                       <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.836;1" dur="2.13s" fill="freeze"/></text>
+</g>
+<rect x="48" y="120" width="392" height="54" fill="url(#scan)"><animateTransform attributeName="transform" type="translate" values="0 -60;0 300" dur="4.5s" repeatCount="indefinite"/></rect>
+<rect x="48" y="128" width="392" height="290" fill="url(#lines)"/>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7600;1" dur="2.50s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0" keyTimes="0;0.7600;1" dur="2.50s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .7 .2 1"/>
+<text x="244.0" y="448" text-anchor="middle" font-size="15" font-weight="700" fill="#0F172A">Web Development <tspan fill="#0891B2">·</tspan> Python <tspan fill="#0891B2">·</tspan> AI</text>
+<text x="244.0" y="472" text-anchor="middle" font-size="12" fill="#475569">Learning JavaScript, Python &amp; more</text>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7857;1" dur="2.80s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0" keyTimes="0;0.7857;1" dur="2.80s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .7 .2 1"/>
+<rect x="64" y="494" width="360" height="40" rx="10" fill="#FFFFFF" fill-opacity=".6" stroke="#CBD5E1"/>
+<text x="119.1 126.9 134.7 142.5 150.3 158.1 165.9 173.7 181.5 189.3 197.1 204.9 212.7" y="518.5" font-size="13" fill="#059669" xml:space="preserve">~/abhinaba $ </text>
+<clipPath id="cmdClip"><rect x="220.5" y="500" height="28" width="0"><animate attributeName="width" values="0;0.0;7.8;15.6;23.4;31.2;39.0;46.8;54.6;62.4;70.2;78.0;85.8;93.6;101.4;109.2;117.0;124.8;132.6;140.4" keyTimes="0;0.6616;0.6794;0.6972;0.7150;0.7328;0.7506;0.7684;0.7863;0.8041;0.8219;0.8397;0.8575;0.8753;0.8931;0.9109;0.9288;0.9466;0.9644;0.9822" calcMode="discrete" dur="3.93s" fill="freeze"/></rect></clipPath>
+<text x="220.5 228.3 236.1 243.9 251.7 259.5 267.3 275.1 282.9 290.7 298.5 306.3 314.1 321.9 329.7 337.5 345.3 353.1" y="518.5" font-size="13" fill="#0F172A" clip-path="url(#cmdClip)">./learn --everyday</text>
+<rect x="221.5" y="507" width="7.5" height="15" rx="1" fill="#0891B2"><animate attributeName="x" values="221.5;221.5;229.3;237.1;244.9;252.7;260.5;268.3;276.1;283.9;291.7;299.5;307.3;315.1;322.9;330.7;338.5;346.3;354.1;361.9" keyTimes="0;0.6616;0.6794;0.6972;0.7150;0.7328;0.7506;0.7684;0.7863;0.8041;0.8219;0.8397;0.8575;0.8753;0.8931;0.9109;0.9288;0.9466;0.9644;0.9822" calcMode="discrete" dur="3.93s" fill="freeze"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1.05s" repeatCount="indefinite"/></rect>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8125;1" dur="3.20s" fill="freeze"/><text x="244.0" y="558" text-anchor="middle" font-size="10.5" fill="#64748B" letter-spacing="1.2">RENDER: DOT-MATRIX  ·  MONOGRAM: AC  ·  SIGNAL <tspan fill="#059669">●</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3684;1" dur="0.95s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 8;0 0" keyTimes="0;0.3684;1" dur="0.95s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .7 .2 1"/>
+<g filter="url(#soft)"><rect x="480" y="76" width="668" height="502" rx="18" fill="#FFFFFF" fill-opacity=".62"/></g>
+<rect x="480" y="76" width="668" height="502" rx="18" fill="url(#glassHi)"/>
+<rect x="480.5" y="76.5" width="667" height="501" rx="17.5" fill="none" stroke="#CBD5E1" stroke-opacity=".9"/>
+<line x1="504" y1="76.5" x2="1124" y2="76.5" stroke="url(#accentMove)" stroke-opacity=".7"/>
+<circle cx="504" cy="102" r="3" fill="#2563EB"/>
+<text x="516" y="106" font-size="12" font-weight="700" fill="#0F172A" letter-spacing="2">SYSTEM.INFO</text>
+<text x="1124" y="106" text-anchor="end" font-size="11" fill="#64748B"><tspan fill="#059669">abhinaba-chanda@github</tspan>:~$ ./profile.sh</text>
+<line x1="504" y1="120" x2="1124" y2="120" stroke="#CBD5E1"/>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5625;1" dur="1.60s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0" keyTimes="0;0.5625;1" dur="1.60s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .7 .2 1"/><text x="814.0" y="176" text-anchor="middle" font-size="40" font-weight="800" fill="#0F172A" letter-spacing="-.5">Abhinaba Chanda</text>
+<rect x="778.0" y="190" width="72" height="3" rx="1.5" fill="url(#accent)"/></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6667;1" dur="1.80s" fill="freeze"/>
+<text x="671.2 681.4 691.6 701.8 712 722.2 732.4 742.6 752.8 763 773.2 783.4" y="226" font-size="17" fill="#475569" xml:space="preserve">&gt; exploring </text>
+<clipPath id="role0"><rect x="793.6" y="206" height="28" width="0"><animate attributeName="width" values="0.0;10.2;20.4;30.6;40.8;51.0;61.2;71.4;81.6;91.8;102.0;112.2;122.4;132.6;142.8;153.0;142.8;132.6;122.4;112.2;102.0;91.8;81.6;71.4;61.2;51.0;40.8;30.6;20.4;10.2;0.0" keyTimes="0.0000;0.0095;0.0191;0.0286;0.0381;0.0477;0.0572;0.0667;0.0763;0.0858;0.0953;0.1049;0.1144;0.1239;0.1335;0.1430;0.3379;0.3422;0.3464;0.3506;0.3549;0.3591;0.3633;0.3676;0.3718;0.3761;0.3803;0.3845;0.3888;0.3930;0.3972" calcMode="discrete" dur="9.44s" repeatCount="indefinite"/></rect></clipPath>
+<text x="793.6 803.8 814 824.2 834.4 844.6 854.8 865 875.2 885.4 895.6 905.8 916 926.2 936.4" y="226" font-size="17" font-weight="700" fill="url(#accentMove)" clip-path="url(#role0)">Web Development</text>
+<clipPath id="role1"><rect x="793.6" y="206" height="28" width="0"><animate attributeName="width" values="0.0;10.2;20.4;30.6;40.8;51.0;61.2;51.0;40.8;30.6;20.4;10.2;0.0" keyTimes="0.0000;0.4439;0.4534;0.4629;0.4725;0.4820;0.4915;0.6864;0.6907;0.6949;0.6992;0.7034;0.7076" calcMode="discrete" dur="9.44s" repeatCount="indefinite"/></rect></clipPath>
+<text x="793.6 803.8 814 824.2 834.4 844.6" y="226" font-size="17" font-weight="700" fill="url(#accentMove)" clip-path="url(#role1)">Python</text>
+<clipPath id="role2"><rect x="793.6" y="206" height="28" width="0"><animate attributeName="width" values="0.0;10.2;20.4;10.2;0.0" keyTimes="0.0000;0.7542;0.7638;0.9587;0.9629" calcMode="discrete" dur="9.44s" repeatCount="indefinite"/></rect></clipPath>
+<text x="793.6 803.8" y="226" font-size="17" font-weight="700" fill="url(#accentMove)" clip-path="url(#role2)">AI</text>
+<rect x="794.6" y="211" width="9" height="19" rx="1.5" fill="#0891B2"><animate attributeName="x" values="794.6;804.8;815.0;825.2;835.4;845.6;855.8;866.0;876.2;886.4;896.6;906.8;917.0;927.2;937.4;947.6;937.4;927.2;917.0;906.8;896.6;886.4;876.2;866.0;855.8;845.6;835.4;825.2;815.0;804.8;794.6;804.8;815.0;825.2;835.4;845.6;855.8;845.6;835.4;825.2;815.0;804.8;794.6;804.8;815.0;804.8;794.6" keyTimes="0.0000;0.0095;0.0191;0.0286;0.0381;0.0477;0.0572;0.0667;0.0763;0.0858;0.0953;0.1049;0.1144;0.1239;0.1335;0.1430;0.3379;0.3422;0.3464;0.3506;0.3549;0.3591;0.3633;0.3676;0.3718;0.3761;0.3803;0.3845;0.3888;0.3930;0.3972;0.4439;0.4534;0.4629;0.4725;0.4820;0.4915;0.6864;0.6907;0.6949;0.6992;0.7034;0.7076;0.7542;0.7638;0.9587;0.9629" calcMode="discrete" dur="9.44s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/></rect>
+</g>
+<line x1="528" y1="252" x2="1100" y2="252" stroke="#CBD5E1" stroke-dasharray="2 6"/>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7619;1" dur="2.10s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 4;0 4;0 0" keyTimes="0;0.7619;1" dur="2.10s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .7 .2 1"/>
+<text x="724.0" y="284" text-anchor="end" font-size="12" font-weight="700" fill="#2563EB" letter-spacing="1.5">HANDLE</text>
+<text x="734.0" y="284" font-size="12" fill="#64748B">›</text>
+<text x="752.0" y="284" font-size="14" fill="#0F172A">@abhinaba-chanda</text>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7748;1" dur="2.22s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 4;0 4;0 0" keyTimes="0;0.7748;1" dur="2.22s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .7 .2 1"/>
+<text x="724.0" y="312" text-anchor="end" font-size="12" font-weight="700" fill="#2563EB" letter-spacing="1.5">FROM</text>
+<text x="734.0" y="312" font-size="12" fill="#64748B">›</text>
+<text x="752.0" y="312" font-size="14" fill="#0F172A">India</text>
+<g><rect x="806.0" y="301" width="21" height="14" rx="2.5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width=".8"/><rect x="806.0" y="301" width="21" height="4.67" rx="1" fill="#FF9933"/><rect x="806.0" y="310.33" width="21" height="4.67" rx="1" fill="#138808"/><circle cx="816.5" cy="308" r="1.8" fill="none" stroke="#000080" stroke-width=".7"/></g>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7863;1" dur="2.34s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 4;0 4;0 0" keyTimes="0;0.7863;1" dur="2.34s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .7 .2 1"/>
+<text x="724.0" y="340" text-anchor="end" font-size="12" font-weight="700" fill="#2563EB" letter-spacing="1.5">FOCUS</text>
+<text x="734.0" y="340" font-size="12" fill="#64748B">›</text>
+<text x="752.0" y="340" font-size="14" fill="#0F172A">Web Development <tspan fill="#0891B2">·</tspan> Python <tspan fill="#0891B2">·</tspan> AI</text>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7967;1" dur="2.46s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 4;0 4;0 0" keyTimes="0;0.7967;1" dur="2.46s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .7 .2 1"/>
+<text x="724.0" y="368" text-anchor="end" font-size="12" font-weight="700" fill="#2563EB" letter-spacing="1.5">LEARNING</text>
+<text x="734.0" y="368" font-size="12" fill="#64748B">›</text>
+<text x="752.0" y="368" font-size="14" fill="#0F172A">JavaScript <tspan fill="#0891B2">·</tspan> Python <tspan fill="#0891B2">·</tspan> more</text>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8062;1" dur="2.58s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 4;0 4;0 0" keyTimes="0;0.8062;1" dur="2.58s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .7 .2 1"/>
+<text x="724.0" y="396" text-anchor="end" font-size="12" font-weight="700" fill="#2563EB" letter-spacing="1.5">PASSION</text>
+<text x="734.0" y="396" font-size="12" fill="#64748B">›</text>
+<text x="752.0" y="396" font-size="14" fill="#0F172A">Web Development &amp; Programming</text>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8148;1" dur="2.70s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 4;0 4;0 0" keyTimes="0;0.8148;1" dur="2.70s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .7 .2 1"/>
+<text x="724.0" y="424" text-anchor="end" font-size="12" font-weight="700" fill="#2563EB" letter-spacing="1.5">FUN FACT</text>
+<text x="734.0" y="424" font-size="12" fill="#64748B">›</text>
+<text x="752.0" y="424" font-size="14" fill="#0F172A">Maybe I'm funny</text>
+<g fill="none" stroke="#059669" stroke-width="1.4"><circle cx="894.0" cy="419" r="7"/><path d="M890.5 420.5q3.5 3.5 7 0" stroke-linecap="round"/></g><circle cx="891.5" cy="417" r="1" fill="#059669"/><circle cx="896.5" cy="417" r="1" fill="#059669"/>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8000;1" dur="3.00s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0" keyTimes="0;0.8000;1" dur="3.00s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .7 .2 1"/>
+<text x="814.0" y="458" text-anchor="middle" font-size="10.5" font-weight="700" fill="#64748B" letter-spacing="3">STACK &amp; INTERESTS</text>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -1.5;0 0" dur="3.0s" repeatCount="indefinite"/>
+<rect x="527.4" y="470" width="116.0" height="28" rx="14" fill="#FFFFFF" fill-opacity=".85" stroke="#2563EB" stroke-opacity=".55"/>
+<circle cx="542.4" cy="484" r="3" fill="#2563EB"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="592.9" y="488.5" text-anchor="middle" font-size="13" fill="#0F172A">JavaScript</text></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -1.5;0 0" dur="3.6s" repeatCount="indefinite"/>
+<rect x="653.4" y="470" width="84.8" height="28" rx="14" fill="#FFFFFF" fill-opacity=".85" stroke="#0891B2" stroke-opacity=".55"/>
+<circle cx="668.4" cy="484" r="3" fill="#0891B2"><animate attributeName="opacity" values="1;.35;1" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="703.3" y="488.5" text-anchor="middle" font-size="13" fill="#0F172A">Python</text></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -1.5;0 0" dur="4.2s" repeatCount="indefinite"/>
+<rect x="748.2" y="470" width="155.0" height="28" rx="14" fill="#FFFFFF" fill-opacity=".85" stroke="#059669" stroke-opacity=".55"/>
+<circle cx="763.2" cy="484" r="3" fill="#059669"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" repeatCount="indefinite"/></circle>
+<text x="833.2" y="488.5" text-anchor="middle" font-size="13" fill="#0F172A">Web Development</text></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -1.5;0 0" dur="4.8s" repeatCount="indefinite"/>
+<rect x="913.2" y="470" width="53.6" height="28" rx="14" fill="#FFFFFF" fill-opacity=".85" stroke="#2563EB" stroke-opacity=".55"/>
+<circle cx="928.2" cy="484" r="3" fill="#2563EB"><animate attributeName="opacity" values="1;.35;1" dur="3.6s" repeatCount="indefinite"/></circle>
+<text x="947.5" y="488.5" text-anchor="middle" font-size="13" fill="#0F172A">AI</text></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -1.5;0 0" dur="5.4s" repeatCount="indefinite"/>
+<rect x="976.8" y="470" width="123.8" height="28" rx="14" fill="#FFFFFF" fill-opacity=".85" stroke="#0891B2" stroke-opacity=".55"/>
+<circle cx="991.8" cy="484" r="3" fill="#0891B2"><animate attributeName="opacity" values="1;.35;1" dur="4.0s" repeatCount="indefinite"/></circle>
+<text x="1046.2" y="488.5" text-anchor="middle" font-size="13" fill="#0F172A">Programming</text></g>
+</g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8235;1" dur="3.40s" fill="freeze"/>
+<line x1="528" y1="512" x2="1100" y2="512" stroke="#CBD5E1" stroke-dasharray="2 6"/>
+<text x="800.0" y="532" text-anchor="end" font-size="12" fill="#475569"><tspan fill="#2563EB" font-weight="700">GH </tspan>github.com/abhinaba-chanda</text>
+<text x="814.0" y="532" text-anchor="middle" font-size="12" fill="#64748B">|</text>
+<text x="828.0" y="532" font-size="12" fill="#475569"><tspan fill="#2563EB" font-weight="700">@ </tspan>abhinabachanda491@gmail.com</text>
+</g>
+</svg>
