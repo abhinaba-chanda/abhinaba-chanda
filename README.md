@@ -15,12 +15,31 @@
 
 ---
 
-### 🚀 About Me
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"><img align="right" src="https://komarev.com/ghpvc/?username=abhinaba-chanda&style=for-the-badge&color=blue">
 
-- 🌱 I'm currently learning **JavaScript, Python, and more**
-- 💻 Passionate about **Web Development & Programming**
-- 📫 Reach me at **[abhinabachanda491@gmail.com](mailto:abhinabachanda491@gmail.com)**
-- ⚡ Fun fact: **Maybe I'm funny 😄**
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
+
+> [!CAUTION]
+> - 🔖 Congratulations, you found me!
+
+> [!NOTE]
+> - 💻 Passionate about **Web Development & Programming**
+
+> [!IMPORTANT]
+> - 🌱 I'm currently learning **JavaScript, Python, and more**
+
+> [!WARNING]
+> - ⚡ Fun fact: **Maybe I'm funny 😄**
+
+> [!TIP]
+> - 📗 Want to collaborate or have a question? Reach me at **[abhinabachanda491@gmail.com](mailto:abhinabachanda491@gmail.com)**
+
+<p align="center">
+  <a href="mailto:abhinabachanda491@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/abhinaba-chanda"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+
+---
 
 ### 🎯 Focus
 
