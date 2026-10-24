@@ -127,6 +127,14 @@
 
 <br clear="both">
 
+<p align="center">
+  <img src="https://media.giphy.com/media/F7PMyZxRpWTFDAzwHE/giphy.gif" height="160" />
+  <img src="https://media.giphy.com/media/3oY7aEvMTlq0aoxrIw/giphy.gif" height="160" />
+  <img src="https://media.giphy.com/media/dBK6RSwc8VBvG9t5yG/giphy.gif" height="160" />
+</p>
+
+
+
 <details open align="center">
   <summary>💚 More</summary>
   <br>
