@@ -110,47 +110,19 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20">
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20">
-<img align="left" src="./images/good-times.svg" width="10%">
-<img align="right" src="./images/good-times.svg" width="10%">
-
-<h2 align="center">【H o b b i e s】</h2>
-
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 <img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70">
 <img align="right" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70">
 
+<h2 align="center">【H o b b i e s】</h2>
+
 <p align="center">
-  💻 Coding &nbsp;·&nbsp; 🌐 Building websites &nbsp;·&nbsp; 🤖 Exploring AI &nbsp;·&nbsp; 🐍 Python
+  🏏 Cricket &nbsp;·&nbsp; 🎵 Music &nbsp;·&nbsp; 🎮 Gaming &nbsp;·&nbsp; 💻 Coding &nbsp;·&nbsp; 🤖 Exploring AI
 </p>
 
-<br clear="both">
+<br>
 
-<details open align="center">
-  <summary>💚 More</summary>
-  <br>
-  <div align="center">
-    <img src="./images/city.gif" width="60%">
-    <br><br>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
-    <br><br>
-    <p>⏳ 𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛</p>
-    <img src="./images/clock.svg" alt="Clock" width="200" height="200" title="⌚ Front-End"><img src="./images/xlzpyflf.png" alt="Gear" width="200" height="200" title="⚙️ Back-End">
-    <br><br>
-    <img src="./images/citytheme.gif" width="60%">
-  </div>
-</details>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
-
-<img width="30" align="left" src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon" />
-<img width="30" align="right" src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon" />
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bb0eb1a9-234a-43a7-9bd6-ebbade6712a3" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting!;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
-</p>
