@@ -56,6 +56,7 @@
 <a href="https://www.instagram.com/abhinba_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" /></a>
 <a href="https://www.facebook.com/share/19bsT6NMR1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" /></a>
 <a href="https://www.youtube.com/@ABHINABACHANDA-18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" /></a>
+<a href="https://t.me/abhinaba_chanda" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" /></a>
 </p>
 
 <br>
