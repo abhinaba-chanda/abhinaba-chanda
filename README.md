@@ -83,6 +83,16 @@
 
 ---
 
+<h3 align="center">📁 Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/abhinaba-chanda/python-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=python-practice&theme=algolia" /></a>
+  <a href="https://github.com/abhinaba-chanda/javascript-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=javascript-practice&theme=algolia" /></a>
+  <a href="https://github.com/abhinaba-chanda/c-cpp-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=c-cpp-practice&theme=algolia" /></a>
+</p>
+
+---
+
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
