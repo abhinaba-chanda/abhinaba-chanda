@@ -108,7 +108,7 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
 <img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70">
 <img align="right" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70">
@@ -125,4 +125,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
 </div>
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
