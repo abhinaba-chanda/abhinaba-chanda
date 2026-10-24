@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/Web_Development-0F172A?style=for-the-badge" alt="Web Development">
   <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge" alt="Python">
   <img src="https://img.shields.io/badge/AI-0F172A?style=for-the-badge" alt="AI">
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge" alt="JavaScript">
 </p>
 
 <h3 align="left">Connect with me:</h3>
