@@ -103,14 +103,6 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinaba-chanda/abhinaba-chanda/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinaba-chanda/abhinaba-chanda/output/github-snake.svg">
     <img src="https://raw.githubusercontent.com/abhinaba-chanda/abhinaba-chanda/output/github-snake.svg" alt="GitHub contribution snake" width="100%">
@@ -169,6 +161,32 @@
 </details>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+
+<div align="center">
+
+```text
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯  A habit missed once is a mistake,    @@
+@@   ❮(|~o.o~|)❯    A habit missed twice is a start    @@
+@@   ❮/ \`-'/ \❯          of new habit!                @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+</div>
 
 <img width="30" align="left" src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon" />
 <img width="30" align="right" src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon" />
