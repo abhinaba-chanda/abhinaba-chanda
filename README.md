@@ -49,11 +49,28 @@
   <img src="https://img.shields.io/badge/AI-0F172A?style=for-the-badge" alt="AI">
 </p>
 
-### 🛠️ Learning Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/abhinaba-chanda" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" /></a>
+<a href="mailto:abhinabachanda491@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" /></a>
+</p>
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  </a>
 </p>
 
 ---
@@ -66,13 +83,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinaba-chanda/abhinaba-chanda/output/github-snake.svg">
     <img src="https://raw.githubusercontent.com/abhinaba-chanda/abhinaba-chanda/output/github-snake.svg" alt="GitHub contribution snake" width="100%">
   </picture>
-</p>
-
----
-
-### 📫 Connect
-
-<p>
-  <a href="https://github.com/abhinaba-chanda"><img src="https://img.shields.io/badge/GitHub-abhinaba--chanda-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:abhinabachanda491@gmail.com"><img src="https://img.shields.io/badge/Email-abhinabachanda491%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"></a>
 </p>
