@@ -78,6 +78,25 @@
 
 ---
 
+<h3 align="center">📈 GitHub Stats</h3>
+
+<p align="center">
+  <a href="https://github.com/abhinaba-chanda"><img src="https://github-readme-stats.vercel.app/api?username=abhinaba-chanda&show_icons=true&line_height=30&rank_icon=github&theme=algolia" alt="GitHub stats" /></a>
+</p>
+
+<details open align="center">
+  <summary>📊 More Stats</summary>
+  <br>
+  <div align="center">
+    <a href="https://github.com/abhinaba-chanda"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinaba-chanda&theme=algolia" width="100%" /></a>
+    <br><br>
+    <a href="https://github.com/abhinaba-chanda"><img src="https://streak-stats.demolab.com/?user=abhinaba-chanda&theme=algolia" width="49%" alt="Streak" /></a>
+    <a href="https://github.com/abhinaba-chanda"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinaba-chanda&theme=algolia" width="49%" alt="Productive time" /></a>
+  </div>
+</details>
+
+---
+
 <h3 align="center">📊 GitHub Contributions</h3>
 
 <p align="center">
@@ -87,3 +106,23 @@
     <img src="https://raw.githubusercontent.com/abhinaba-chanda/abhinaba-chanda/output/github-snake.svg" alt="GitHub contribution snake" width="100%">
   </picture>
 </p>
+
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+
+<img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70">
+<img align="right" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70">
+
+<h2 align="center">【H o b b i e s】</h2>
+
+<p align="center">
+  💻 Coding &nbsp;·&nbsp; 🌐 Building websites &nbsp;·&nbsp; 🤖 Exploring AI &nbsp;·&nbsp; 🐍 Python
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</div>
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
