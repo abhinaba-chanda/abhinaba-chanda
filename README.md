@@ -67,7 +67,7 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,c,cpp" />
   </a>
 </p>
 
@@ -75,6 +75,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    <img src="./images/cursor.svg" height="48" alt="Cursor" />
   </a>
 </p>
 
