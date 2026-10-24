@@ -107,6 +107,14 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinaba-chanda/abhinaba-chanda/pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinaba-chanda/abhinaba-chanda/pacman/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhinaba-chanda/abhinaba-chanda/pacman/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
