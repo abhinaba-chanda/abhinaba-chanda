@@ -53,6 +53,9 @@
 <p align="left">
 <a href="https://github.com/abhinaba-chanda" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" /></a>
 <a href="mailto:abhinabachanda491@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" /></a>
+<a href="https://www.instagram.com/abhinba_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" /></a>
+<a href="https://www.facebook.com/share/19bsT6NMR1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" /></a>
+<a href="https://www.youtube.com/@ABHINABACHANDA-18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" /></a>
 </p>
 
 <br>
