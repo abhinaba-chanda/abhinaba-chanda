@@ -12,10 +12,10 @@
 
 ### 🚀 About Me
 
-* 🌱 I'm currently learning **Python, AI and Web Development**
-* 💻 Passionate about **building web apps & AI tools**
-* 🤖 Exploring **LLMs, automation and machine learning**
-* ⚡ Fun fact: **I code better at 2am 😄**
+* 🌱 I'm currently learning **JavaScript, Python, and more**
+* 💻 Passionate about **Web Development & Programming**
+* 📫 Reach me at **[abhinabachanda491@gmail.com](mailto:abhinabachanda491@gmail.com)**
+* ⚡ Fun fact: **Maybe I'm funny 😄**
 
 ---
 
