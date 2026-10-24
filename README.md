@@ -103,6 +103,14 @@
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinaba-chanda/abhinaba-chanda/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinaba-chanda/abhinaba-chanda/output/github-snake.svg">
     <img src="https://raw.githubusercontent.com/abhinaba-chanda/abhinaba-chanda/output/github-snake.svg" alt="GitHub contribution snake" width="100%">
