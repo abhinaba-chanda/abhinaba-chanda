@@ -35,6 +35,10 @@
 > - 📗 Want to collaborate or have a question? Reach me at **[abhinabachanda491@gmail.com](mailto:abhinabachanda491@gmail.com)**
 
 <p align="center">
+  <img src="./assets/coding.jpg" width="380" alt="Coding" />
+</p>
+
+<p align="center">
   <a href="mailto:abhinabachanda491@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/abhinaba-chanda"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
