@@ -76,6 +76,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode" />
     <img src="./images/cursor.svg" height="48" alt="Cursor" />
+    <img src="./images/copilot.svg" height="48" alt="GitHub Copilot" />
+    <img src="./images/claude.svg" height="48" alt="Claude AI" />
   </a>
 </p>
 
