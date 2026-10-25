@@ -96,6 +96,17 @@
   <a href="https://github.com/abhinaba-chanda/c-cpp-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=c-cpp-practice&theme=algolia" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/abhinaba-chanda/abhinaba-chanda.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=abhinaba-chanda.github.io&theme=algolia" /></a>
+  <a href="https://github.com/abhinaba-chanda/fc-barcelona-fan-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=fc-barcelona-fan-page&theme=algolia" /></a>
+  <a href="https://github.com/abhinaba-chanda/python-ai-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=python-ai-projects&theme=algolia" /></a>
+  <a href="https://github.com/abhinaba-chanda/nodejs-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=nodejs-practice&theme=algolia" /></a>
+</p>
+
+<p align="center">
+  🌐 <b>Live demo:</b> <a href="https://abhinaba-chanda.github.io/">My Portfolio</a> &nbsp;·&nbsp; <a href="https://abhinaba-chanda.github.io/fc-barcelona-fan-page/">FC Barcelona Fan Page</a>
+</p>
+
 ---
 
 <h3 align="center">📈 GitHub Stats</h3>
