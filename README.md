@@ -33,7 +33,7 @@
 > - 🌱 I'm currently learning **JavaScript, Python, and more**
 
 > [!WARNING]
-> - ⚡ Fun fact: **Maybe I'm funny 😄**
+> - ⚡ Fun fact: **Maybe I'm funny 😄** and I'm a huge **football ⚽ and FC Barcelona 💙❤️ fan**
 
 > [!TIP]
 > - 📗 Want to collaborate or have a question? Reach me at **[abhinabachanda491@gmail.com](mailto:abhinabachanda491@gmail.com)**
