@@ -181,7 +181,7 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
     <br><br>
     <p>⏳ 𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛</p>
-    <img src="./images/clock.svg" alt="Clock" width="200" height="200" title="⌚ Front-End"><img src="./images/xlzpyflf.png" alt="Gear" width="200" height="200" title="⚙️ Back-End">
+    <img src="./images/clock.svg" alt="Clock" width="200" height="200" title="⌚ Front-End">
     <br><br>
     <img src="./images/citytheme.gif" width="60%">
   </div>
