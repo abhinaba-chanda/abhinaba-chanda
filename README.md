@@ -158,15 +158,16 @@
 <img align="right" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70">
 
 <p align="center">
-  🏏 Cricket &nbsp;·&nbsp; 🎵 Music &nbsp;·&nbsp; 🎮 Gaming &nbsp;·&nbsp; 💻 Coding &nbsp;·&nbsp; 🤖 Exploring AI
+  ⚽ Football &nbsp;·&nbsp; 🎵 Music &nbsp;·&nbsp; 🎮 Gaming &nbsp;·&nbsp; 💻 Coding &nbsp;·&nbsp; 🤖 Exploring AI
 </p>
 
 <br clear="both">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/F7PMyZxRpWTFDAzwHE/giphy.gif" height="160" />
-  <img src="https://media.giphy.com/media/3oY7aEvMTlq0aoxrIw/giphy.gif" height="160" />
-  <img src="https://media.giphy.com/media/dBK6RSwc8VBvG9t5yG/giphy.gif" height="160" />
+  <img src="./images/football-1.gif" height="160" />
+  <img src="./images/football-2.gif" height="160" />
+  <img src="./images/football-3.gif" height="160" />
+  <img src="./images/football-4.gif" height="160" />
 </p>
 
 
