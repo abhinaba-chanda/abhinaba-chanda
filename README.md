@@ -35,12 +35,16 @@
 > [!WARNING]
 > - ⚡ Fun fact: **Maybe I'm funny 😄** and I'm a huge **football ⚽ and FC Barcelona 💙❤️ fan**
 
+> [!NOTE]
+> - 🌐 Check out my portfolio website: **[abhinaba-chanda.github.io](https://abhinaba-chanda.github.io/)**
+
 > [!TIP]
 > - 📗 Want to collaborate or have a question? Reach me at **[abhinabachanda491@gmail.com](mailto:abhinabachanda491@gmail.com)**
 
 <p align="center">
   <a href="mailto:abhinabachanda491@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/abhinaba-chanda"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://abhinaba-chanda.github.io/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -97,14 +101,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abhinaba-chanda/abhinaba-chanda.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=abhinaba-chanda.github.io&theme=algolia" /></a>
-  <a href="https://github.com/abhinaba-chanda/fc-barcelona-fan-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=fc-barcelona-fan-page&theme=algolia" /></a>
   <a href="https://github.com/abhinaba-chanda/python-ai-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=python-ai-projects&theme=algolia" /></a>
   <a href="https://github.com/abhinaba-chanda/nodejs-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=nodejs-practice&theme=algolia" /></a>
-</p>
-
-<p align="center">
-  🌐 <b>Live demo:</b> <a href="https://abhinaba-chanda.github.io/">My Portfolio</a> &nbsp;·&nbsp; <a href="https://abhinaba-chanda.github.io/fc-barcelona-fan-page/">FC Barcelona Fan Page</a>
 </p>
 
 ---
@@ -179,6 +177,12 @@
   <img src="./images/football-2.gif" height="160" />
   <img src="./images/football-3.gif" height="160" />
   <img src="./images/football-4.gif" height="160" />
+</p>
+
+<p align="center">
+  <a href="https://abhinaba-chanda.github.io/fc-barcelona-fan-page/"><img src="https://img.shields.io/badge/⚽_Visit_my_FC_Barcelona_Fan_Page-A50044?style=for-the-badge&labelColor=004D98" alt="Visit my FC Barcelona Fan Page" /></a>
+  <br>
+  <b>💙❤️ <a href="https://abhinaba-chanda.github.io/fc-barcelona-fan-page/">Visca Barça! Check out my FC Barcelona &amp; Messi fan page 🐐</a></b>
 </p>
 
 
