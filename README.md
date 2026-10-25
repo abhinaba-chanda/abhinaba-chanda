@@ -9,9 +9,13 @@
 
 <br>
 
-<p align="center">
-  Hi, I'm <b>Abhinaba</b> 👋 from India 🇮🇳 — into <b>Web Development</b>, <b>Python</b> and <b>AI</b>.
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/intro-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./images/intro-light.gif">
+    <img src="./images/intro-dark.gif" width="100%" alt="👋 Hi there! I'm Abhinaba, from India: Web Development, Python, JavaScript and AI">
+  </picture>
+</div>
 
 ---
 
