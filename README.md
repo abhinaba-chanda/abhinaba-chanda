@@ -17,6 +17,12 @@
   </picture>
 </div>
 
+<p align="center">
+  <a href="https://abhinaba-chanda.github.io/"><img src="https://img.shields.io/badge/🌐_Visit_my_Portfolio-abhinaba--chanda.github.io-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Visit my Portfolio" height="40" /></a>
+  <br>
+  <b>✨ <a href="https://abhinaba-chanda.github.io/">abhinaba-chanda.github.io</a> ✨</b>
+</p>
+
 ---
 
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"><img align="right" src="https://komarev.com/ghpvc/?username=abhinaba-chanda&style=for-the-badge&color=blue">
