@@ -112,7 +112,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abhinaba-chanda/matchday-weather"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=matchday-weather&theme=algolia" /></a>
+  <a href="https://github.com/abhinaba-chanda/weather-now"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=weather-now&theme=algolia" /></a>
   <a href="https://github.com/abhinaba-chanda/ai-study-buddy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=ai-study-buddy&theme=algolia" /></a>
   <a href="https://github.com/abhinaba-chanda/smart-file-organizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=smart-file-organizer&theme=algolia" /></a>
 </p>
