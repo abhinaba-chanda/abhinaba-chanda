@@ -117,6 +117,8 @@
   <a href="https://github.com/abhinaba-chanda/smart-file-organizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=smart-file-organizer&theme=algolia" /></a>
 </p>
 
+<p align="center"><b>More Projects</b></p>
+
 <p align="center">
   🐍 <a href="https://github.com/abhinaba-chanda/python-practice"><b>python-practice</b></a><br>
   🟨 <a href="https://github.com/abhinaba-chanda/javascript-practice"><b>javascript-practice</b></a><br>
