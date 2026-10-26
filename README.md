@@ -194,7 +194,7 @@
 <p align="center">
   <a href="https://abhinaba-chanda.github.io/fc-barcelona-fan-page/"><img src="https://img.shields.io/badge/⚽_Visit_my_FC_Barcelona_Fan_Page-A50044?style=for-the-badge&labelColor=004D98" alt="Visit my FC Barcelona Fan Page" /></a>
   <br>
-  <b>💙❤️ <a href="https://abhinaba-chanda.github.io/fc-barcelona-fan-page/">Visca Barça! Check out my FC Barcelona &amp; Messi fan page 🐐</a></b>
+  <b>💙❤️ <a href="https://abhinaba-chanda.github.io/fc-barcelona-fan-page/">Visca Barça! Check out Barça &amp; Beyond, my FC Barcelona &amp; Messi fan site 🐐</a></b>
 </p>
 
 
