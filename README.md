@@ -44,6 +44,13 @@
 > [!NOTE]
 > - 🌐 Check out my portfolio website: **[abhinaba-chanda.github.io](https://abhinaba-chanda.github.io/)**
 
+> [!IMPORTANT]
+> - 🚀 **My live projects:**
+> - 🤖 **[AI Study Buddy](https://abhinaba-chanda.github.io/ai-study-buddy/)**
+> - 🌦️ **[Weather Now](https://abhinaba-chanda.github.io/weather-now/)**
+> - ⚽ **[Barça & Beyond](https://abhinaba-chanda.github.io/fc-barcelona-fan-page/)**
+> - 🗂️ **[Smart File Organizer (Windows app)](https://github.com/abhinaba-chanda/smart-file-organizer/releases/tag/V1)**
+
 > [!TIP]
 > - 📗 Want to collaborate or have a question? Reach me at **[abhinabachanda491@gmail.com](mailto:abhinabachanda491@gmail.com)**
 
@@ -51,6 +58,10 @@
   <a href="mailto:abhinabachanda491@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/abhinaba-chanda"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://abhinaba-chanda.github.io/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://abhinaba-chanda.github.io/ai-study-buddy/"><img src="https://img.shields.io/badge/AI_Study_Buddy-6D28D9?style=flat-square" alt="AI Study Buddy" /></a>
+  <a href="https://abhinaba-chanda.github.io/weather-now/"><img src="https://img.shields.io/badge/Weather_Now-0284C7?style=flat-square" alt="Weather Now" /></a>
+  <a href="https://abhinaba-chanda.github.io/fc-barcelona-fan-page/"><img src="https://img.shields.io/badge/Bar%C3%A7a_%26_Beyond-A50044?style=flat-square" alt="Barça & Beyond" /></a>
+  <a href="https://github.com/abhinaba-chanda/smart-file-organizer/releases/tag/V1"><img src="https://img.shields.io/badge/File_Organizer_V1-2563EB?style=flat-square" alt="Smart File Organizer" /></a>
 </p>
 
 ---
