@@ -112,20 +112,17 @@
 <h3 align="center">📁 Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/abhinaba-chanda/python-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=python-practice&theme=algolia" /></a>
-  <a href="https://github.com/abhinaba-chanda/javascript-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=javascript-practice&theme=algolia" /></a>
-  <a href="https://github.com/abhinaba-chanda/c-cpp-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=c-cpp-practice&theme=algolia" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/abhinaba-chanda/python-ai-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=python-ai-projects&theme=algolia" /></a>
-  <a href="https://github.com/abhinaba-chanda/nodejs-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=nodejs-practice&theme=algolia" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/abhinaba-chanda/weather-now"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=weather-now&theme=algolia" /></a>
   <a href="https://github.com/abhinaba-chanda/ai-study-buddy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=ai-study-buddy&theme=algolia" /></a>
   <a href="https://github.com/abhinaba-chanda/smart-file-organizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=smart-file-organizer&theme=algolia" /></a>
+</p>
+
+<p align="center">
+  🐍 <a href="https://github.com/abhinaba-chanda/python-practice"><b>python-practice</b></a><br>
+  🟨 <a href="https://github.com/abhinaba-chanda/javascript-practice"><b>javascript-practice</b></a><br>
+  ⚙️ <a href="https://github.com/abhinaba-chanda/c-cpp-practice"><b>c-cpp-practice</b></a><br>
+  🤖 <a href="https://github.com/abhinaba-chanda/python-ai-projects"><b>python-ai-projects</b></a><br>
+  🟩 <a href="https://github.com/abhinaba-chanda/nodejs-practice"><b>nodejs-practice</b></a>
 </p>
 
 ---
