@@ -111,20 +111,6 @@
   <a href="https://github.com/abhinaba-chanda/nodejs-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=nodejs-practice&theme=algolia" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/abhinaba-chanda/matchday-weather"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=matchday-weather&theme=algolia" /></a>
-  <a href="https://github.com/abhinaba-chanda/football-match-predictor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=football-match-predictor&theme=algolia" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/abhinaba-chanda/ai-study-buddy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=ai-study-buddy&theme=algolia" /></a>
-  <a href="https://github.com/abhinaba-chanda/expense-tracker-pwa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=expense-tracker-pwa&theme=algolia" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/abhinaba-chanda/smart-file-organizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=smart-file-organizer&theme=algolia" /></a>
-</p>
-
 ---
 
 <h3 align="center">📈 GitHub Stats</h3>
