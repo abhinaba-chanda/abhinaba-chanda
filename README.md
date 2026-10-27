@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://abhinaba-chanda.github.io/"><img src="https://img.shields.io/badge/🌐_Visit_my_Portfolio-abhinaba--chanda.github.io-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Visit my Portfolio" height="40" /></a>
   <br>
-  <b>✨ <a href="https://abhinaba-chanda.github.io/">abhinaba-chanda.github.io</a> ✨</b>
+  <b><img src="./assets/emojis/sparkles.webp" width="20" height="20" align="absmiddle" alt="✨" /> <a href="https://abhinaba-chanda.github.io/">abhinaba-chanda.github.io</a> <img src="./assets/emojis/sparkles.webp" width="20" height="20" align="absmiddle" alt="✨" /></b>
 </p>
 
 ---
@@ -30,29 +30,29 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 > [!CAUTION]
-> - 🔖 Congratulations, you found me!
+> - <img src="./assets/emojis/party-popper.webp" width="20" height="20" align="absmiddle" alt="🎉" /> Congratulations, you found me!
 
 > [!NOTE]
-> - 💻 Passionate about **Web Development & Programming**
+> - <img src="./assets/emojis/laptop.webp" width="20" height="20" align="absmiddle" alt="💻" /> Passionate about **Web Development & Programming**
 
 > [!IMPORTANT]
-> - 🌱 I'm currently learning **JavaScript, Python, and more**
+> - <img src="./assets/emojis/seedling.webp" width="20" height="20" align="absmiddle" alt="🌱" /> I'm currently learning **JavaScript, Python, and more**
 
 > [!WARNING]
-> - ⚡ Fun fact: **Maybe I'm funny 😄** and I'm a huge **football ⚽ and FC Barcelona 💙❤️ fan**
+> - <img src="./assets/emojis/high-voltage.webp" width="20" height="20" align="absmiddle" alt="⚡" /> Fun fact: **Maybe I'm funny <img src="./assets/emojis/grinning-smiling-eyes.webp" width="20" height="20" align="absmiddle" alt="😄" />** and I'm a huge **football <img src="./assets/emojis/soccer-ball.webp" width="20" height="20" align="absmiddle" alt="⚽" /> and FC Barcelona <img src="./assets/emojis/blue-heart.webp" width="20" height="20" align="absmiddle" alt="💙" /><img src="./assets/emojis/red-heart.webp" width="20" height="20" align="absmiddle" alt="❤️" /> fan**
 
 > [!NOTE]
-> - 🌐 Check out my portfolio website: **[abhinaba-chanda.github.io](https://abhinaba-chanda.github.io/)**
+> - <img src="./assets/emojis/globe-asia.webp" width="20" height="20" align="absmiddle" alt="🌏" /> Check out my portfolio website: **[abhinaba-chanda.github.io](https://abhinaba-chanda.github.io/)**
 
 > [!IMPORTANT]
-> - 🚀 **My live projects:**
-> - 🤖 **[AI Study Buddy](https://abhinaba-chanda.github.io/ai-study-buddy/)**
-> - 🌦️ **[Weather Now](https://abhinaba-chanda.github.io/weather-now/)**
-> - ⚽ **[Barça & Beyond](https://abhinaba-chanda.github.io/fc-barcelona-fan-page/)**
-> - 🗂️ **[Smart File Organizer (Windows app)](https://github.com/abhinaba-chanda/smart-file-organizer/releases/tag/V1)**
+> - <img src="./assets/emojis/rocket.webp" width="20" height="20" align="absmiddle" alt="🚀" /> **My live projects:**
+> - <img src="./assets/emojis/robot.webp" width="20" height="20" align="absmiddle" alt="🤖" /> **[AI Study Buddy](https://abhinaba-chanda.github.io/ai-study-buddy/)**
+> - <img src="./assets/emojis/sun-behind-rain-cloud.webp" width="20" height="20" align="absmiddle" alt="🌦️" /> **[Weather Now](https://abhinaba-chanda.github.io/weather-now/)**
+> - <img src="./assets/emojis/soccer-ball.webp" width="20" height="20" align="absmiddle" alt="⚽" /> **[Barça & Beyond](https://abhinaba-chanda.github.io/fc-barcelona-fan-page/)**
+> - <img src="./assets/emojis/package.webp" width="20" height="20" align="absmiddle" alt="📦" /> **[Smart File Organizer (Windows app)](https://github.com/abhinaba-chanda/smart-file-organizer/releases/tag/V1)**
 
 > [!TIP]
-> - 📗 Want to collaborate or have a question? Reach me at **[abhinabachanda491@gmail.com](mailto:abhinabachanda491@gmail.com)**
+> - <img src="./assets/emojis/handshake.webp" width="20" height="20" align="absmiddle" alt="🤝" /> Want to collaborate or have a question? Reach me at **[abhinabachanda491@gmail.com](mailto:abhinabachanda491@gmail.com)**
 
 <p align="center">
   <a href="mailto:abhinabachanda491@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -66,7 +66,7 @@
 
 ---
 
-### 🎯 Focus
+### <img src="./assets/emojis/direct-hit.webp" width="24" height="24" align="absmiddle" alt="🎯" /> Focus
 
 <p>
   <img src="https://img.shields.io/badge/Web_Development-0F172A?style=for-the-badge" alt="Web Development">
@@ -109,7 +109,7 @@
 
 ---
 
-<h3 align="center">📁 Projects</h3>
+<h3 align="center"><img src="./assets/emojis/hammer-and-wrench.webp" width="24" height="24" align="absmiddle" alt="🛠️" /> Projects</h3>
 
 <p align="center">
   <a href="https://github.com/abhinaba-chanda/weather-now"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=weather-now&theme=algolia" /></a>
@@ -120,23 +120,23 @@
 <p align="center"><b>More Projects</b></p>
 
 <p align="center">
-  🐍 <a href="https://github.com/abhinaba-chanda/python-practice"><b>python-practice</b></a><br>
-  🟨 <a href="https://github.com/abhinaba-chanda/javascript-practice"><b>javascript-practice</b></a><br>
-  ⚙️ <a href="https://github.com/abhinaba-chanda/c-cpp-practice"><b>c-cpp-practice</b></a><br>
-  🤖 <a href="https://github.com/abhinaba-chanda/python-ai-projects"><b>python-ai-projects</b></a><br>
-  🟩 <a href="https://github.com/abhinaba-chanda/nodejs-practice"><b>nodejs-practice</b></a>
+  <img src="./assets/emojis/snake.webp" width="20" height="20" align="absmiddle" alt="🐍" /> <a href="https://github.com/abhinaba-chanda/python-practice"><b>python-practice</b></a><br>
+  <img src="./assets/emojis/yellow-heart.webp" width="20" height="20" align="absmiddle" alt="💛" /> <a href="https://github.com/abhinaba-chanda/javascript-practice"><b>javascript-practice</b></a><br>
+  <img src="./assets/emojis/gear.webp" width="20" height="20" align="absmiddle" alt="⚙️" /> <a href="https://github.com/abhinaba-chanda/c-cpp-practice"><b>c-cpp-practice</b></a><br>
+  <img src="./assets/emojis/robot.webp" width="20" height="20" align="absmiddle" alt="🤖" /> <a href="https://github.com/abhinaba-chanda/python-ai-projects"><b>python-ai-projects</b></a><br>
+  <img src="./assets/emojis/green-heart.webp" width="20" height="20" align="absmiddle" alt="💚" /> <a href="https://github.com/abhinaba-chanda/nodejs-practice"><b>nodejs-practice</b></a>
 </p>
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
+<h3 align="center"><img src="./assets/emojis/chart-increasing.webp" width="24" height="24" align="absmiddle" alt="📈" /> GitHub Stats</h3>
 
 <p align="center">
   <a href="https://github.com/abhinaba-chanda"><img src="https://github-readme-stats.vercel.app/api?username=abhinaba-chanda&show_icons=true&line_height=30&rank_icon=github&theme=algolia" alt="GitHub stats" /></a>
 </p>
 
 <details open align="center">
-  <summary>📊 More Stats</summary>
+  <summary><img src="./assets/emojis/bar-chart.webp" width="20" height="20" align="absmiddle" alt="📊" /> More Stats</summary>
   <br>
   <div align="center">
     <a href="https://github.com/abhinaba-chanda"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinaba-chanda&theme=algolia" width="100%" /></a>
@@ -148,7 +148,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Contributions</h3>
+<h3 align="center"><img src="./assets/emojis/bar-chart.webp" width="24" height="24" align="absmiddle" alt="📊" /> GitHub Contributions</h3>
 
 <p align="center">
   <picture>
@@ -189,7 +189,7 @@
 <img align="right" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70">
 
 <p align="center">
-  ⚽ Football &nbsp;·&nbsp; 🎵 Music &nbsp;·&nbsp; 🎮 Gaming &nbsp;·&nbsp; 💻 Coding &nbsp;·&nbsp; 🤖 Exploring AI
+  <img src="./assets/emojis/soccer-ball.webp" width="20" height="20" align="absmiddle" alt="⚽" /> Football &nbsp;·&nbsp; <img src="./assets/emojis/musical-notes.webp" width="20" height="20" align="absmiddle" alt="🎶" /> Music &nbsp;·&nbsp; <img src="./assets/emojis/alien-monster.webp" width="20" height="20" align="absmiddle" alt="👾" /> Gaming &nbsp;·&nbsp; <img src="./assets/emojis/laptop.webp" width="20" height="20" align="absmiddle" alt="💻" /> Coding &nbsp;·&nbsp; <img src="./assets/emojis/robot.webp" width="20" height="20" align="absmiddle" alt="🤖" /> Exploring AI
 </p>
 
 <br clear="both">
@@ -208,20 +208,20 @@
 <p align="center">
   <a href="https://abhinaba-chanda.github.io/fc-barcelona-fan-page/"><img src="https://img.shields.io/badge/⚽_Visit_my_FC_Barcelona_Fan_Page-A50044?style=for-the-badge&labelColor=004D98" alt="Visit my FC Barcelona Fan Page" /></a>
   <br>
-  <b>💙❤️ <a href="https://abhinaba-chanda.github.io/fc-barcelona-fan-page/">Visca Barça! Check out Barça &amp; Beyond, my FC Barcelona &amp; Messi fan site 🐐</a></b>
+  <b><img src="./assets/emojis/blue-heart.webp" width="20" height="20" align="absmiddle" alt="💙" /><img src="./assets/emojis/red-heart.webp" width="20" height="20" align="absmiddle" alt="❤️" /> <a href="https://abhinaba-chanda.github.io/fc-barcelona-fan-page/">Visca Barça! Check out Barça &amp; Beyond, my FC Barcelona &amp; Messi fan site <img src="./assets/emojis/goat.webp" width="20" height="20" align="absmiddle" alt="🐐" /></a></b>
 </p>
 
 
 
 <details open align="center">
-  <summary>💚 More</summary>
+  <summary><img src="./assets/emojis/green-heart.webp" width="20" height="20" align="absmiddle" alt="💚" /> More</summary>
   <br>
   <div align="center">
     <img src="./images/city.gif" width="60%">
     <br><br>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
     <br><br>
-    <p>⏳ 𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛</p>
+    <p><img src="./assets/emojis/hourglass-not-done.webp" width="20" height="20" align="absmiddle" alt="⏳" /> 𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ <img src="./assets/emojis/hourglass-done.webp" width="20" height="20" align="absmiddle" alt="⌛" /></p>
     <img src="./images/clock.svg" alt="Clock" width="200" height="200" title="⌚ Front-End">
     <br><br>
     <img src="./images/citytheme.gif" width="60%">
