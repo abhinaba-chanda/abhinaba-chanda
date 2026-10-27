@@ -35,6 +35,10 @@ I'm Abhinaba, a developer from India who's into web development, Python and AI. 
 
 Every project on this profile started as a "can I actually build this?" moment, from an AI study helper to a weather app to a site for my favourite football club. Online I go by **Abhinaba-Dev**, and Windows 11 is where all of it gets built. <img src="./assets/emojis/sparkles.webp" width="22" height="22" align="absmiddle" alt="✨" />
 
+> <img src="./assets/emojis/high-voltage.webp" width="20" height="20" align="absmiddle" alt="⚡" /> ***"Learn it. Build it. Break it. Fix it. Ship it."***
+>
+> *Small steps every day, one project at a time.*
+
 <br clear="right">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
