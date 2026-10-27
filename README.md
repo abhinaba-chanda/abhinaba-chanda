@@ -25,7 +25,7 @@
 
 ---
 
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"><img align="right" src="https://komarev.com/ghpvc/?username=abhinaba-chanda&style=for-the-badge&color=blue">
+## <img src="./assets/emojis/rocket.webp" width="28" height="28" align="absmiddle" alt="🚀" /> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"><img align="right" src="https://komarev.com/ghpvc/?username=abhinaba-chanda&style=for-the-badge&color=blue">
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
@@ -98,7 +98,7 @@ Every project on this profile started as a "can I actually build this?" moment, 
   <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge" alt="JavaScript">
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><img src="./assets/emojis/handshake.webp" width="24" height="24" align="absmiddle" alt="🤝" /> Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/abhinaba-chanda" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" /></a>
 <a href="mailto:abhinabachanda491@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" /></a>
@@ -111,7 +111,7 @@ Every project on this profile started as a "can I actually build this?" moment, 
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><img src="./assets/emojis/gear.webp" width="24" height="24" align="absmiddle" alt="⚙️" /> Languages and Tools:</h3>
 
 - Languages
 <p align="left">
@@ -205,7 +205,7 @@ Every project on this profile started as a "can I actually build this?" moment, 
 <img align="left" src="./images/good-times.svg" width="10%">
 <img align="right" src="./images/good-times.svg" width="10%">
 
-<h2 align="center">【H o b b i e s】</h2>
+<h2 align="center"><img src="./assets/emojis/sparkles.webp" width="28" height="28" align="absmiddle" alt="✨" /> 【H o b b i e s】</h2>
 
 <br clear="both">
 
