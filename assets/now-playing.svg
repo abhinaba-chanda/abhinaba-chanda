@@ -57,8 +57,8 @@
   </g>
   <g opacity="0">
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0833;0.0875;0.1625;0.1667;1" dur="84s" repeatCount="indefinite"/>
-    <text x="150" y="58" class="artist">Taylor Swift</text>
-    <text x="150" y="77" class="song">&#8220;Blank Space&#8221;</text>
+    <text x="150" y="58" class="artist">Ariana Grande</text>
+    <text x="150" y="77" class="song">&#8220;7 rings&#8221;</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1667;0.1708;0.2458;0.25;1" dur="84s" repeatCount="indefinite"/>
