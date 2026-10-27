@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="112" viewBox="0 0 480 112" role="img" aria-label="Now playing: a rotating list of Indian and American artists">
+  <title>Now playing</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b0b33"/>
+      <stop offset="1" stop-color="#2c0f4d"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <linearGradient id="eq" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#ec4899"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="track"><rect x="150" y="90" width="300" height="4" rx="2"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+    .label { font-size: 10.5px; font-weight: 700; letter-spacing: 2.4px; fill: #22d3ee; }
+    .artist { font-size: 19px; font-weight: 800; fill: #ffffff; }
+    .song { font-size: 11.5px; fill: #c4b5fd; }
+  </style>
+  <rect x="2" y="2" width="476" height="108" rx="16" fill="url(#bg)" stroke="url(#edge)" stroke-width="1.6" filter="url(#glow)"/>
+  <rect x="2" y="2" width="476" height="108" rx="16" fill="url(#bg)" stroke="url(#edge)" stroke-width="1.4"/>
+  <g filter="url(#glow)">
+    <rect x="26.0" y="50" width="5" height="28" rx="2" fill="url(#eq)"><animate attributeName="height" values="28;17;33;11;12;42;28" dur="0.97s" repeatCount="indefinite"/><animate attributeName="y" values="50;61;45;67;66;36;50" dur="0.97s" repeatCount="indefinite"/></rect>
+    <rect x="34.2" y="67" width="5" height="11" rx="2" fill="url(#eq)"><animate attributeName="height" values="11;40;21;10;13;35;11" dur="1.19s" repeatCount="indefinite"/><animate attributeName="y" values="67;38;57;68;65;43;67" dur="1.19s" repeatCount="indefinite"/></rect>
+    <rect x="42.4" y="55" width="5" height="23" rx="2" fill="url(#eq)"><animate attributeName="height" values="23;13;43;35;11;44;23" dur="0.99s" repeatCount="indefinite"/><animate attributeName="y" values="55;65;35;43;67;34;55" dur="0.99s" repeatCount="indefinite"/></rect>
+    <rect x="50.6" y="56" width="5" height="22" rx="2" fill="url(#eq)"><animate attributeName="height" values="22;11;44;33;11;22;22" dur="0.93s" repeatCount="indefinite"/><animate attributeName="y" values="56;67;34;45;67;56;56" dur="0.93s" repeatCount="indefinite"/></rect>
+    <rect x="58.8" y="62" width="5" height="16" rx="2" fill="url(#eq)"><animate attributeName="height" values="16;26;34;17;42;15;16" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="62;52;44;61;36;63;62" dur="1.3s" repeatCount="indefinite"/></rect>
+    <rect x="67.0" y="35" width="5" height="43" rx="2" fill="url(#eq)"><animate attributeName="height" values="43;19;14;44;20;31;43" dur="0.97s" repeatCount="indefinite"/><animate attributeName="y" values="35;59;64;34;58;47;35" dur="0.97s" repeatCount="indefinite"/></rect>
+    <rect x="75.2" y="66" width="5" height="12" rx="2" fill="url(#eq)"><animate attributeName="height" values="12;44;11;21;39;42;12" dur="1.2s" repeatCount="indefinite"/><animate attributeName="y" values="66;34;67;57;39;36;66" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="83.4" y="50" width="5" height="28" rx="2" fill="url(#eq)"><animate attributeName="height" values="28;37;37;31;27;23;28" dur="1.46s" repeatCount="indefinite"/><animate attributeName="y" values="50;41;41;47;51;55;50" dur="1.46s" repeatCount="indefinite"/></rect>
+    <rect x="91.6" y="55" width="5" height="23" rx="2" fill="url(#eq)"><animate attributeName="height" values="23;13;44;27;41;39;23" dur="1.51s" repeatCount="indefinite"/><animate attributeName="y" values="55;65;34;51;37;39;55" dur="1.51s" repeatCount="indefinite"/></rect>
+    <rect x="99.8" y="42" width="5" height="36" rx="2" fill="url(#eq)"><animate attributeName="height" values="36;26;12;15;40;34;36" dur="1.02s" repeatCount="indefinite"/><animate attributeName="y" values="42;52;66;63;38;44;42" dur="1.02s" repeatCount="indefinite"/></rect>
+    <rect x="108.0" y="49" width="5" height="29" rx="2" fill="url(#eq)"><animate attributeName="height" values="29;17;39;34;10;12;29" dur="1.44s" repeatCount="indefinite"/><animate attributeName="y" values="49;61;39;44;68;66;49" dur="1.44s" repeatCount="indefinite"/></rect>
+    <rect x="116.2" y="34" width="5" height="44" rx="2" fill="url(#eq)"><animate attributeName="height" values="44;28;29;30;39;37;44" dur="0.95s" repeatCount="indefinite"/><animate attributeName="y" values="34;50;49;48;39;41;34" dur="0.95s" repeatCount="indefinite"/></rect>
+    <rect x="124.4" y="65" width="5" height="13" rx="2" fill="url(#eq)"><animate attributeName="height" values="13;25;38;12;11;27;13" dur="1.35s" repeatCount="indefinite"/><animate attributeName="y" values="65;53;40;66;67;51;65" dur="1.35s" repeatCount="indefinite"/></rect>
+    <rect x="132.6" y="42" width="5" height="36" rx="2" fill="url(#eq)"><animate attributeName="height" values="36;26;32;30;9;37;36" dur="1.15s" repeatCount="indefinite"/><animate attributeName="y" values="42;52;46;48;69;41;42" dur="1.15s" repeatCount="indefinite"/></rect>
+  </g>
+  <text x="150" y="34" class="label">&#9835; NOW PLAYING</text>
+  <circle cx="452" cy="30" r="3.5" fill="#22c55e"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  <g opacity="1">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.0792;0.0833;1" dur="84s" repeatCount="indefinite"/>
+    <text x="150" y="58" class="artist">Arijit Singh</text>
+    <text x="150" y="77" class="song">&#8220;Tum Hi Ho&#8221; &#183; on repeat &#183; die-hard fan</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0833;0.0875;0.1625;0.1667;1" dur="84s" repeatCount="indefinite"/>
+    <text x="150" y="58" class="artist">Taylor Swift</text>
+    <text x="150" y="77" class="song">&#8220;Blank Space&#8221;</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1667;0.1708;0.2458;0.25;1" dur="84s" repeatCount="indefinite"/>
+    <text x="150" y="58" class="artist">A.R. Rahman</text>
+    <text x="150" y="77" class="song">&#8220;Jai Ho&#8221;</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.2542;0.3292;0.3333;1" dur="84s" repeatCount="indefinite"/>
+    <text x="150" y="58" class="artist">Billie Eilish</text>
+    <text x="150" y="77" class="song">&#8220;bad guy&#8221;</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3333;0.3375;0.4125;0.4167;1" dur="84s" repeatCount="indefinite"/>
+    <text x="150" y="58" class="artist">Shreya Ghoshal</text>
+    <text x="150" y="77" class="song">&#8220;Deewani Mastani&#8221;</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4167;0.4208;0.4958;0.5;1" dur="84s" repeatCount="indefinite"/>
+    <text x="150" y="58" class="artist">Bruno Mars</text>
+    <text x="150" y="77" class="song">&#8220;Just the Way You Are&#8221;</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.5042;0.5792;0.5833;1" dur="84s" repeatCount="indefinite"/>
+    <text x="150" y="58" class="artist">Diljit Dosanjh</text>
+    <text x="150" y="77" class="song">&#8220;G.O.A.T.&#8221;</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5833;0.5875;0.6625;0.6667;1" dur="84s" repeatCount="indefinite"/>
+    <text x="150" y="58" class="artist">Eminem</text>
+    <text x="150" y="77" class="song">&#8220;Lose Yourself&#8221;</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6667;0.6708;0.7458;0.75;1" dur="84s" repeatCount="indefinite"/>
+    <text x="150" y="58" class="artist">Badshah</text>
+    <text x="150" y="77" class="song">&#8220;DJ Waley Babu&#8221;</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.75;0.7542;0.8292;0.8333;1" dur="84s" repeatCount="indefinite"/>
+    <text x="150" y="58" class="artist">Post Malone</text>
+    <text x="150" y="77" class="song">&#8220;Circles&#8221;</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8333;0.8375;0.9125;0.9167;1" dur="84s" repeatCount="indefinite"/>
+    <text x="150" y="58" class="artist">Sonu Nigam</text>
+    <text x="150" y="77" class="song">&#8220;Kal Ho Naa Ho&#8221;</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.9167;0.9208;0.9958;1" dur="84s" repeatCount="indefinite"/>
+    <text x="150" y="58" class="artist">Michael Jackson</text>
+    <text x="150" y="77" class="song">&#8220;Billie Jean&#8221;</text>
+  </g>
+  <rect x="150" y="90" width="300" height="4" rx="2" fill="#3b1d5e"/>
+  <g clip-path="url(#track)">
+    <rect x="150" y="90" width="0" height="4" fill="url(#bar)"><animate attributeName="width" values="0;300" dur="7s" repeatCount="indefinite"/></rect>
+  </g>
+  <circle cx="150" cy="92" r="5" fill="#ec4899" filter="url(#glow)"><animate attributeName="cx" values="150;450" dur="7s" repeatCount="indefinite"/></circle>
+</svg>
