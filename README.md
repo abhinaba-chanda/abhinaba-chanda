@@ -195,7 +195,7 @@
 <br clear="both">
 
 <p align="center">
-  <img src="./assets/now-playing.svg?v=1" width="480" alt="Now playing: Arijit Singh, Taylor Swift, A.R. Rahman and more on rotation" />
+  <img src="./assets/now-playing.svg?v=2" width="480" alt="Now playing: Arijit Singh, Ariana Grande, A.R. Rahman and more on rotation" />
 </p>
 
 <p align="center">
