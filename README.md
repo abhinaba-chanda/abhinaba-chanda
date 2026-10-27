@@ -41,7 +41,11 @@ Every project on this profile started as a "can I actually build this?" moment, 
 
 ### <img src="./assets/emojis/laptop.webp" width="28" height="28" align="absmiddle" alt="💻" /> My Coding Journey
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="270" alt="Coding" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/languages-light.svg?v=1">
+  <img align="right" src="./assets/languages.svg?v=1" width="360" alt="Hello in 23 Indian languages">
+</picture>
 
 - <img src="./assets/emojis/gear.webp" width="20" height="20" align="absmiddle" alt="⚙️" /> **Already know:** C, C++ and Node.js
 - <img src="./assets/emojis/seedling.webp" width="20" height="20" align="absmiddle" alt="🌱" /> **Learning right now:** JavaScript and Python
@@ -63,11 +67,7 @@ Every project on this profile started as a "can I actually build this?" moment, 
 > [!WARNING]
 > Bring up Messi and you might lose the next hour of your day. <img src="./assets/emojis/goat.webp" width="20" height="20" align="absmiddle" alt="🐐" /> Also, maybe I'm funny. <img src="./assets/emojis/grinning-smiling-eyes.webp" width="20" height="20" align="absmiddle" alt="😄" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/languages-light.svg?v=1">
-  <img align="right" src="./assets/languages.svg?v=1" width="400" alt="Hello in 23 Indian languages">
-</picture>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="200" alt="Coding" />
 
 > [!IMPORTANT]
 > - <img src="./assets/emojis/rocket.webp" width="20" height="20" align="absmiddle" alt="🚀" /> **My live projects:**
