@@ -72,7 +72,7 @@
 
 ---
 
-<img align="right" src="./assets/coder.gif?v=6" width="380" alt="Coding at a desk" />
+<img align="right" src="./assets/coder.gif?v=7" width="380" alt="Coding at a desk" />
 
 ### <img src="./assets/emojis/direct-hit.webp" width="24" height="24" align="absmiddle" alt="🎯" /> Focus
 
