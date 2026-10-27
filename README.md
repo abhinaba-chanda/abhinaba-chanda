@@ -41,11 +41,15 @@ Every project on this profile started as a "can I actually build this?" moment, 
 
 ### <img src="./assets/emojis/laptop.webp" width="28" height="28" align="absmiddle" alt="💻" /> My Coding Journey
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="150" alt="Coding" />
+
 - <img src="./assets/emojis/gear.webp" width="20" height="20" align="absmiddle" alt="⚙️" /> **Already know:** C, C++ and Node.js
 - <img src="./assets/emojis/seedling.webp" width="20" height="20" align="absmiddle" alt="🌱" /> **Learning right now:** JavaScript and Python
 - <img src="./assets/emojis/robot.webp" width="20" height="20" align="absmiddle" alt="🤖" /> **Most excited about:** web development, Python and AI
 - <img src="./assets/emojis/hammer-and-wrench.webp" width="20" height="20" align="absmiddle" alt="🛠️" /> **My setup:** Windows 11, Cursor, GitHub Copilot and Claude AI
 - <img src="./assets/emojis/direct-hit.webp" width="20" height="20" align="absmiddle" alt="🎯" /> **How I work:** pick an idea, build it, break it, fix it, ship it
+
+<br clear="right">
 
 > [!NOTE]
 > I'm still learning, and I'm proud of it. Each project here taught me something new, and the next one will teach me more. <img src="./assets/emojis/seedling.webp" width="20" height="20" align="absmiddle" alt="🌱" />
