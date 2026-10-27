@@ -29,20 +29,35 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-> [!CAUTION]
-> - <img src="./assets/emojis/party-popper.webp" width="20" height="20" align="absmiddle" alt="🎉" /> Congratulations, you found me!
+<img src="./assets/emojis/rocket.webp" width="26" height="26" align="absmiddle" alt="🚀" /> **I build things, put them on the internet, and learn a ton doing it.**
+
+I'm Abhinaba, a developer from India who's into web development, Python and AI. I'm sharpening my JavaScript and Python right now, and I've already spent time with C, C++ and Node.js along the way.
+
+Every project on this profile started as a "can I actually build this?" moment, from an AI study helper to a weather app to a site for my favourite football club. Online I go by **Abhinaba-Dev**, and Windows 11 is where all of it gets built. <img src="./assets/emojis/sparkles.webp" width="22" height="22" align="absmiddle" alt="✨" />
+
+<br clear="right">
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+
+### <img src="./assets/emojis/laptop.webp" width="28" height="28" align="absmiddle" alt="💻" /> My Coding Journey
+
+- <img src="./assets/emojis/gear.webp" width="20" height="20" align="absmiddle" alt="⚙️" /> **Already know:** C, C++ and Node.js
+- <img src="./assets/emojis/seedling.webp" width="20" height="20" align="absmiddle" alt="🌱" /> **Learning right now:** JavaScript and Python
+- <img src="./assets/emojis/robot.webp" width="20" height="20" align="absmiddle" alt="🤖" /> **Most excited about:** web development, Python and AI
+- <img src="./assets/emojis/hammer-and-wrench.webp" width="20" height="20" align="absmiddle" alt="🛠️" /> **My setup:** Windows 11, Cursor, GitHub Copilot and Claude AI
+- <img src="./assets/emojis/direct-hit.webp" width="20" height="20" align="absmiddle" alt="🎯" /> **How I work:** pick an idea, build it, break it, fix it, ship it
 
 > [!NOTE]
-> - <img src="./assets/emojis/laptop.webp" width="20" height="20" align="absmiddle" alt="💻" /> Passionate about **Web Development & Programming**
+> I'm still learning, and I'm proud of it. Each project here taught me something new, and the next one will teach me more. <img src="./assets/emojis/seedling.webp" width="20" height="20" align="absmiddle" alt="🌱" />
 
 > [!IMPORTANT]
-> - <img src="./assets/emojis/seedling.webp" width="20" height="20" align="absmiddle" alt="🌱" /> I'm currently learning **JavaScript, Python, and more**
+> **Right now I'm focused on:** getting really good at JavaScript and Python, and mixing web development with AI to build smarter projects. <img src="./assets/emojis/high-voltage.webp" width="20" height="20" align="absmiddle" alt="⚡" />
+
+> [!TIP]
+> When I'm not coding, I'm watching football <img src="./assets/emojis/soccer-ball.webp" width="20" height="20" align="absmiddle" alt="⚽" /> (Messi and FC Barcelona all the way <img src="./assets/emojis/blue-heart.webp" width="20" height="20" align="absmiddle" alt="💙" /><img src="./assets/emojis/red-heart.webp" width="20" height="20" align="absmiddle" alt="❤️" />), listening to music <img src="./assets/emojis/musical-notes.webp" width="20" height="20" align="absmiddle" alt="🎶" /> or gaming <img src="./assets/emojis/alien-monster.webp" width="20" height="20" align="absmiddle" alt="👾" />.
 
 > [!WARNING]
-> - <img src="./assets/emojis/high-voltage.webp" width="20" height="20" align="absmiddle" alt="⚡" /> Fun fact: **Maybe I'm funny <img src="./assets/emojis/grinning-smiling-eyes.webp" width="20" height="20" align="absmiddle" alt="😄" />** and I'm a huge **football <img src="./assets/emojis/soccer-ball.webp" width="20" height="20" align="absmiddle" alt="⚽" /> and FC Barcelona <img src="./assets/emojis/blue-heart.webp" width="20" height="20" align="absmiddle" alt="💙" /><img src="./assets/emojis/red-heart.webp" width="20" height="20" align="absmiddle" alt="❤️" /> fan**
-
-> [!NOTE]
-> - <img src="./assets/emojis/globe-asia.webp" width="20" height="20" align="absmiddle" alt="🌏" /> Check out my portfolio website: **[abhinaba-chanda.github.io](https://abhinaba-chanda.github.io/)**
+> Bring up Messi and you might lose the next hour of your day. <img src="./assets/emojis/goat.webp" width="20" height="20" align="absmiddle" alt="🐐" /> Also, maybe I'm funny. <img src="./assets/emojis/grinning-smiling-eyes.webp" width="20" height="20" align="absmiddle" alt="😄" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.svg?v=1">
