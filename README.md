@@ -44,6 +44,12 @@
 > [!NOTE]
 > - <img src="./assets/emojis/globe-asia.webp" width="20" height="20" align="absmiddle" alt="🌏" /> Check out my portfolio website: **[abhinaba-chanda.github.io](https://abhinaba-chanda.github.io/)**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/languages-light.svg?v=1">
+  <img align="right" src="./assets/languages.svg?v=1" width="400" alt="Hello in 23 Indian languages">
+</picture>
+
 > [!IMPORTANT]
 > - <img src="./assets/emojis/rocket.webp" width="20" height="20" align="absmiddle" alt="🚀" /> **My live projects:**
 > - <img src="./assets/emojis/robot.webp" width="20" height="20" align="absmiddle" alt="🤖" /> **[AI Study Buddy](https://abhinaba-chanda.github.io/ai-study-buddy/)**
