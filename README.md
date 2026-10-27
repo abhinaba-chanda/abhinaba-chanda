@@ -184,6 +184,8 @@
 
 <h2 align="center">【H o b b i e s】</h2>
 
+<br clear="both">
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="28" height="28" align="absmiddle" /> &nbsp; <img src="./assets/emojis/soccer-ball.webp" width="20" height="20" align="absmiddle" alt="⚽" /> Football &nbsp;·&nbsp; <img src="./assets/emojis/musical-notes.webp" width="20" height="20" align="absmiddle" alt="🎶" /> Music &nbsp;·&nbsp; <img src="./assets/emojis/alien-monster.webp" width="20" height="20" align="absmiddle" alt="👾" /> Gaming &nbsp;·&nbsp; <img src="./assets/emojis/laptop.webp" width="20" height="20" align="absmiddle" alt="💻" /> Coding &nbsp;·&nbsp; <img src="./assets/emojis/robot.webp" width="20" height="20" align="absmiddle" alt="🤖" /> Exploring AI &nbsp; <img src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="28" height="28" align="absmiddle" />
