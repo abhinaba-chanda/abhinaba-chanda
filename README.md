@@ -172,8 +172,7 @@ Every project on this profile started as a "can I actually build this?" moment, 
   <div align="center">
     <a href="https://github.com/abhinaba-chanda"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinaba-chanda&theme=algolia" width="100%" /></a>
     <br><br>
-    <a href="https://github.com/abhinaba-chanda"><img src="https://streak-stats.demolab.com/?user=abhinaba-chanda&theme=algolia" width="49%" alt="Streak" /></a>
-    <a href="https://github.com/abhinaba-chanda"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinaba-chanda&theme=algolia" width="49%" alt="Productive time" /></a>
+    <a href="https://github.com/abhinaba-chanda"><img src="https://streak-stats.demolab.com/?user=abhinaba-chanda&theme=algolia" width="60%" alt="Streak" /></a>
   </div>
 </details>
 
