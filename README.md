@@ -97,6 +97,12 @@ Every project on this profile started as a "can I actually build this?" moment, 
 
 <img align="right" src="./assets/coder.gif?v=7" width="380" alt="Coding at a desk" />
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=abhinaba-chanda&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;row=1&amp;column=7" alt="GitHub trophies" />
+</p>
+
 ### <img src="./assets/emojis/direct-hit.webp" width="24" height="24" align="absmiddle" alt="🎯" /> Focus
 
 <p>
