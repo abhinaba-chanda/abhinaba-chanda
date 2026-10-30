@@ -146,6 +146,15 @@ Every project on this profile started as a "can I actually build this?" moment, 
   <img src="https://github-trophies.vercel.app/?username=abhinaba-chanda&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;row=1&amp;column=7" alt="GitHub trophies" />
 </p>
 
+<h3 align="center">🏅 Achievement Hunt</h3>
+
+<p align="center"><b>Unlocked</b><br>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw" title="Quickdraw" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO" title="YOLO" />
+</p>
+<p align="center"><b>Next up</b><br>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark" title="Pull Shark" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72" alt="Pair Extraordinaire" title="Pair Extraordinaire" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="72" alt="Starstruck" title="Starstruck" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="72" alt="Galaxy Brain" title="Galaxy Brain" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="72" alt="Public Sponsor" title="Public Sponsor" />
+</p>
+
 ---
 
 <h3 align="center"><img src="./assets/emojis/hammer-and-wrench.webp" width="24" height="24" align="absmiddle" alt="🛠️" /> Projects</h3>
