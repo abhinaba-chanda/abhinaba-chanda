@@ -18,9 +18,9 @@
 </div>
 
 <p align="center">
-  <a href="https://abhinaba-chanda.github.io/"><img src="https://img.shields.io/badge/🌐_Visit_my_Portfolio-abhinaba--chanda.github.io-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Visit my Portfolio" height="40" /></a>
+  <a href="https://abhinaba-chanda.vercel.app/"><img src="https://img.shields.io/badge/🌐_Visit_my_Portfolio-abhinaba--chanda.vercel.app-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Visit my Portfolio" height="40" /></a>
   <br>
-  <b><img src="./assets/emojis/sparkles.webp" width="20" height="20" align="absmiddle" alt="✨" /> <a href="https://abhinaba-chanda.github.io/">abhinaba-chanda.github.io</a> <img src="./assets/emojis/sparkles.webp" width="20" height="20" align="absmiddle" alt="✨" /></b>
+  <b><img src="./assets/emojis/sparkles.webp" width="20" height="20" align="absmiddle" alt="✨" /> <a href="https://abhinaba-chanda.vercel.app/">abhinaba-chanda.vercel.app</a> <img src="./assets/emojis/sparkles.webp" width="20" height="20" align="absmiddle" alt="✨" /></b>
 </p>
 
 ---
@@ -75,9 +75,9 @@ Every project on this profile started as a "can I actually build this?" moment, 
 
 > [!IMPORTANT]
 > - <img src="./assets/emojis/rocket.webp" width="20" height="20" align="absmiddle" alt="🚀" /> **My live projects:**
-> - <img src="./assets/emojis/robot.webp" width="20" height="20" align="absmiddle" alt="🤖" /> **[AI Study Buddy](https://abhinaba-chanda.github.io/ai-study-buddy/)**
-> - <img src="./assets/emojis/sun-behind-rain-cloud.webp" width="20" height="20" align="absmiddle" alt="🌦️" /> **[Weather Now](https://abhinaba-chanda.github.io/weather-now/)**
-> - <img src="./assets/emojis/soccer-ball.webp" width="20" height="20" align="absmiddle" alt="⚽" /> **[Barça & Beyond](https://abhinaba-chanda.github.io/fc-barcelona-fan-page/)**
+> - <img src="./assets/emojis/robot.webp" width="20" height="20" align="absmiddle" alt="🤖" /> **[AI Study Buddy](https://ai-study-buddy-abhinaba.vercel.app/)**
+> - <img src="./assets/emojis/sun-behind-rain-cloud.webp" width="20" height="20" align="absmiddle" alt="🌦️" /> **[Weather Now](https://weather-now-abhinaba.vercel.app/)**
+> - <img src="./assets/emojis/soccer-ball.webp" width="20" height="20" align="absmiddle" alt="⚽" /> **[Barça & Beyond](https://barca-fan-abhinaba.vercel.app/)**
 > - <img src="./assets/emojis/package.webp" width="20" height="20" align="absmiddle" alt="📦" /> **[Smart File Organizer (Windows app)](https://github.com/abhinaba-chanda/smart-file-organizer/releases/tag/V1)**
 
 > [!TIP]
@@ -86,10 +86,10 @@ Every project on this profile started as a "can I actually build this?" moment, 
 <p align="center">
   <a href="mailto:abhinabachanda491@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/abhinaba-chanda"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://abhinaba-chanda.github.io/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://abhinaba-chanda.github.io/ai-study-buddy/"><img src="https://img.shields.io/badge/AI_Study_Buddy-6D28D9?style=flat-square" alt="AI Study Buddy" /></a>
-  <a href="https://abhinaba-chanda.github.io/weather-now/"><img src="https://img.shields.io/badge/Weather_Now-0284C7?style=flat-square" alt="Weather Now" /></a>
-  <a href="https://abhinaba-chanda.github.io/fc-barcelona-fan-page/"><img src="https://img.shields.io/badge/Bar%C3%A7a_%26_Beyond-A50044?style=flat-square" alt="Barça & Beyond" /></a>
+  <a href="https://abhinaba-chanda.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://ai-study-buddy-abhinaba.vercel.app/"><img src="https://img.shields.io/badge/AI_Study_Buddy-6D28D9?style=flat-square" alt="AI Study Buddy" /></a>
+  <a href="https://weather-now-abhinaba.vercel.app/"><img src="https://img.shields.io/badge/Weather_Now-0284C7?style=flat-square" alt="Weather Now" /></a>
+  <a href="https://barca-fan-abhinaba.vercel.app/"><img src="https://img.shields.io/badge/Bar%C3%A7a_%26_Beyond-A50044?style=flat-square" alt="Barça & Beyond" /></a>
   <a href="https://github.com/abhinaba-chanda/smart-file-organizer/releases/tag/V1"><img src="https://img.shields.io/badge/File_Organizer_V1-2563EB?style=flat-square" alt="Smart File Organizer" /></a>
 </p>
 
@@ -160,8 +160,8 @@ Every project on this profile started as a "can I actually build this?" moment, 
 <h3 align="center"><img src="./assets/emojis/hammer-and-wrench.webp" width="24" height="24" align="absmiddle" alt="🛠️" /> Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/abhinaba-chanda/weather-now"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=weather-now&theme=algolia" /></a>
-  <a href="https://github.com/abhinaba-chanda/ai-study-buddy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=ai-study-buddy&theme=algolia" /></a>
+  <a href="https://weather-now-abhinaba.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=weather-now&theme=algolia" /></a>
+  <a href="https://ai-study-buddy-abhinaba.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=ai-study-buddy&theme=algolia" /></a>
   <a href="https://github.com/abhinaba-chanda/smart-file-organizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=smart-file-organizer&theme=algolia" /></a>
 </p>
 
@@ -252,9 +252,9 @@ Every project on this profile started as a "can I actually build this?" moment, 
 </p>
 
 <p align="center">
-  <a href="https://abhinaba-chanda.github.io/fc-barcelona-fan-page/"><img src="https://img.shields.io/badge/⚽_Visit_my_FC_Barcelona_Fan_Page-A50044?style=for-the-badge&labelColor=004D98" alt="Visit my FC Barcelona Fan Page" /></a>
+  <a href="https://barca-fan-abhinaba.vercel.app/"><img src="https://img.shields.io/badge/⚽_Visit_my_FC_Barcelona_Fan_Page-A50044?style=for-the-badge&labelColor=004D98" alt="Visit my FC Barcelona Fan Page" /></a>
   <br>
-  <b><img src="./assets/emojis/blue-heart.webp" width="20" height="20" align="absmiddle" alt="💙" /><img src="./assets/emojis/red-heart.webp" width="20" height="20" align="absmiddle" alt="❤️" /> <a href="https://abhinaba-chanda.github.io/fc-barcelona-fan-page/">Visca Barça! Check out Barça &amp; Beyond, my FC Barcelona &amp; Messi fan site <img src="./assets/emojis/goat.webp" width="20" height="20" align="absmiddle" alt="🐐" /></a></b>
+  <b><img src="./assets/emojis/blue-heart.webp" width="20" height="20" align="absmiddle" alt="💙" /><img src="./assets/emojis/red-heart.webp" width="20" height="20" align="absmiddle" alt="❤️" /> <a href="https://barca-fan-abhinaba.vercel.app/">Visca Barça! Check out Barça &amp; Beyond, my FC Barcelona &amp; Messi fan site <img src="./assets/emojis/goat.webp" width="20" height="20" align="absmiddle" alt="🐐" /></a></b>
 </p>
 
 
