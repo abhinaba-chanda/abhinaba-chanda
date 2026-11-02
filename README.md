@@ -181,8 +181,6 @@ Every project on this profile started as a "can I actually build this?" moment, 
   <a href="https://github.com/abhinaba-chanda/Kaka"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=Kaka&theme=algolia" /></a>
 </p>
 
-<p align="center"><sub>Based on <a href="https://github.com/FatihMakes/Mark-LVI">Mark LVI by FatihMakes</a> · CC BY-NC 4.0 · modified by Abhinaba Chanda</sub></p>
-
 ---
 
 <h3 align="center"><img src="./assets/emojis/hammer-and-wrench.webp" width="24" height="24" align="absmiddle" alt="🛠️" /> Projects</h3>
