@@ -169,6 +169,8 @@ Every project on this profile started as a "can I actually build this?" moment, 
   From my phone I control it through my own Discord bot, it greets me by face and sends a <b>chor alarm</b> photo if someone else opens my PC.
 </p>
 
+<p align="center">🗣️ <b>Speaks Hinglish, Bengali &amp; English</b></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyQt6-HUD-41CD52?style=flat&logo=qt&logoColor=white" />
