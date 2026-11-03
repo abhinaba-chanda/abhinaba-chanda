@@ -54,10 +54,6 @@
   <a href="https://github.com/abhinaba-chanda/Kaka"><img src="https://img.shields.io/badge/⭐_See_Kaka_on_GitHub-abhinaba--chanda%2FKaka-FF8C00?style=for-the-badge&labelColor=0D1117" alt="See Kaka on GitHub" height="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/abhinaba-chanda/Kaka"><img src="./images/pin-kaka.svg" alt="abhinaba-chanda/Kaka" /></a>
-</p>
-
 ---
 
 ## <img src="./assets/emojis/rocket.webp" width="28" height="28" align="absmiddle" alt="🚀" /> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"><img align="right" src="https://komarev.com/ghpvc/?username=abhinaba-chanda&style=for-the-badge&color=blue">
