@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abhinaba-chanda/Kaka"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=Kaka&theme=algolia" /></a>
+  <a href="https://github.com/abhinaba-chanda/Kaka"><img src="./images/pin-kaka.svg" alt="abhinaba-chanda/Kaka" /></a>
 </p>
 
 ---
@@ -195,9 +195,9 @@ Every project on this profile started as a "can I actually build this?" moment, 
 <h3 align="center"><img src="./assets/emojis/hammer-and-wrench.webp" width="24" height="24" align="absmiddle" alt="🛠️" /> Projects</h3>
 
 <p align="center">
-  <a href="https://weather-now-abhinaba.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=weather-now&theme=algolia" /></a>
-  <a href="https://ai-study-buddy-abhinaba.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=ai-study-buddy&theme=algolia" /></a>
-  <a href="https://github.com/abhinaba-chanda/smart-file-organizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=smart-file-organizer&theme=algolia" /></a>
+  <a href="https://weather-now-abhinaba.vercel.app/"><img src="./images/pin-weather-now.svg" alt="weather-now" /></a>
+  <a href="https://ai-study-buddy-abhinaba.vercel.app/"><img src="./images/pin-ai-study-buddy.svg" alt="ai-study-buddy" /></a>
+  <a href="https://github.com/abhinaba-chanda/smart-file-organizer"><img src="./images/pin-smart-file-organizer.svg" alt="smart-file-organizer" /></a>
 </p>
 
 <p align="center"><b>More Projects</b></p>
@@ -215,7 +215,7 @@ Every project on this profile started as a "can I actually build this?" moment, 
 <h3 align="center"><img src="./assets/emojis/chart-increasing.webp" width="24" height="24" align="absmiddle" alt="📈" /> GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://github.com/abhinaba-chanda"><img src="https://github-readme-stats.vercel.app/api?username=abhinaba-chanda&show_icons=true&line_height=30&rank_icon=github&theme=algolia" alt="GitHub stats" /></a>
+  <a href="https://github.com/abhinaba-chanda"><img src="./images/github-stats.svg" alt="GitHub stats" /></a>
 </p>
 
 <details open align="center">
