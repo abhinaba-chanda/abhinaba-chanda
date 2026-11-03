@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" width="100%" alt="Abhinaba Chanda — from India. Focus: Web Development, Python and AI. Currently learning JavaScript and Python.">
+    <img src="./dark.svg" width="100%" alt="Abhinaba Chanda — from India. Focus: Web Development, Python and AI. Currently learning JavaScript and Node.js.">
   </picture>
 </div>
 
@@ -62,7 +62,7 @@
 
 <img src="./assets/emojis/rocket.webp" width="26" height="26" align="absmiddle" alt="🚀" /> **I build things, put them on the internet, and learn a ton doing it.**
 
-I'm Abhinaba, a developer from India who's into web development, Python and AI. I'm sharpening my JavaScript and Python right now, and I've already spent time with C, C++ and Node.js along the way.
+I'm Abhinaba, a developer from India who's into web development, Python and AI. I'm sharpening my JavaScript and Node.js right now, and I've already spent time with C, C++ and Python along the way.
 
 Every project on this profile started as a "can I actually build this?" moment, from an AI study helper to a weather app to a site for my favourite football club. Online I go by **Abhinaba-Dev**, and Windows 11 is where all of it gets built. <img src="./assets/emojis/sparkles.webp" width="22" height="22" align="absmiddle" alt="✨" />
 
@@ -82,8 +82,8 @@ Every project on this profile started as a "can I actually build this?" moment, 
   <img align="right" src="./assets/languages.svg?v=1" width="360" alt="Hello in 23 Indian languages">
 </picture>
 
-- <img src="./assets/emojis/gear.webp" width="20" height="20" align="absmiddle" alt="⚙️" /> **Already know:** C, C++ and Node.js
-- <img src="./assets/emojis/seedling.webp" width="20" height="20" align="absmiddle" alt="🌱" /> **Learning right now:** JavaScript and Python
+- <img src="./assets/emojis/gear.webp" width="20" height="20" align="absmiddle" alt="⚙️" /> **Already know:** C, C++ and Python
+- <img src="./assets/emojis/seedling.webp" width="20" height="20" align="absmiddle" alt="🌱" /> **Learning right now:** JavaScript and Node.js
 - <img src="./assets/emojis/robot.webp" width="20" height="20" align="absmiddle" alt="🤖" /> **Most excited about:** web development, Python and AI
 - <img src="./assets/emojis/hammer-and-wrench.webp" width="20" height="20" align="absmiddle" alt="🛠️" /> **My setup:** Windows 11, Cursor, GitHub Copilot and Claude AI
 - <img src="./assets/emojis/direct-hit.webp" width="20" height="20" align="absmiddle" alt="🎯" /> **How I work:** pick an idea, build it, break it, fix it, ship it
