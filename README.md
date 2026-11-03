@@ -180,10 +180,10 @@ Every project on this profile started as a "can I actually build this?" moment, 
 <h3 align="center">🏅 Achievement Hunt</h3>
 
 <p align="center"><b>Unlocked</b><br>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw" title="Quickdraw" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO" title="YOLO" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw" title="Quickdraw" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO" title="YOLO" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark" title="Pull Shark" />
 </p>
 <p align="center"><b>Next up</b><br>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark" title="Pull Shark" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72" alt="Pair Extraordinaire" title="Pair Extraordinaire" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="72" alt="Starstruck" title="Starstruck" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="72" alt="Galaxy Brain" title="Galaxy Brain" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="72" alt="Public Sponsor" title="Public Sponsor" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72" alt="Pair Extraordinaire" title="Pair Extraordinaire" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="72" alt="Starstruck" title="Starstruck" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="72" alt="Galaxy Brain" title="Galaxy Brain" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="72" alt="Public Sponsor" title="Public Sponsor" />
 </p>
 
 ---
