@@ -25,6 +25,41 @@
 
 ---
 
+<h2 align="center"><img src="./assets/emojis/robot.webp" width="30" height="30" align="absmiddle" alt="🤖" /> Featured Project</h2>
+
+<h1 align="center"><b>Kaka by Abhinaba Chanda</b></h1>
+
+<p align="center"><b>⚡ My own desktop AI assistant for Windows. I talk, it runs my PC. ⚡</b></p>
+
+<p align="center">
+  <a href="https://github.com/abhinaba-chanda/Kaka"><img src="./images/kaka-hud.jpg" width="100%" alt="Kaka by Abhinaba Chanda - desktop AI assistant HUD" /></a>
+</p>
+
+<p align="center">
+  <b>Kaka</b> answers in a voice, shows a sci-fi HUD and runs my PC: <b>WhatsApp calls, Spotify, VS Code, reminders, notes and GPU screen recording.</b><br>
+  My own <b>Discord bot</b> is its phone remote, it <b>greets me by face</b> and sends a <b>chor alarm</b> photo if someone else opens my PC.
+</p>
+
+<p align="center">🗣️ <b>Speaks Hinglish, Bengali &amp; English</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt6-HUD-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-Live%20voice-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-phone%20remote-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/abhinaba-chanda/Kaka"><img src="https://img.shields.io/badge/⭐_See_Kaka_on_GitHub-abhinaba--chanda%2FKaka-FF8C00?style=for-the-badge&labelColor=0D1117" alt="See Kaka on GitHub" height="40" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/abhinaba-chanda/Kaka"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=Kaka&theme=algolia" /></a>
+</p>
+
+---
+
 ## <img src="./assets/emojis/rocket.webp" width="28" height="28" align="absmiddle" alt="🚀" /> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"><img align="right" src="https://komarev.com/ghpvc/?username=abhinaba-chanda&style=for-the-badge&color=blue">
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
@@ -153,34 +188,6 @@ Every project on this profile started as a "can I actually build this?" moment, 
 </p>
 <p align="center"><b>Next up</b><br>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark" title="Pull Shark" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72" alt="Pair Extraordinaire" title="Pair Extraordinaire" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="72" alt="Starstruck" title="Starstruck" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="72" alt="Galaxy Brain" title="Galaxy Brain" /> <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="72" alt="Public Sponsor" title="Public Sponsor" />
-</p>
-
----
-
-<h3 align="center"><img src="./assets/emojis/robot.webp" width="24" height="24" align="absmiddle" alt="🤖" /> Featured Project: Kaka by Abhinaba Chanda</h3>
-
-<p align="center">
-  <a href="https://github.com/abhinaba-chanda/Kaka"><img src="./images/kaka-hud.jpg" width="85%" alt="Kaka by Abhinaba Chanda - desktop AI assistant HUD" /></a>
-</p>
-
-<p align="center">
-  <b>Kaka</b> is my personal desktop AI assistant for Windows. I talk to it in Hinglish and it answers in a voice,<br>
-  shows a sci-fi HUD and runs my PC: WhatsApp calls, Spotify, VS Code, reminders, notes and screen recording.<br>
-  From my phone I control it through my own Discord bot, it greets me by face and sends a <b>chor alarm</b> photo if someone else opens my PC.
-</p>
-
-<p align="center">🗣️ <b>Speaks Hinglish, Bengali &amp; English</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt6-HUD-41CD52?style=flat&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-Live%20voice-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-phone%20remote-5865F2?style=flat&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=flat&logo=windows&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/abhinaba-chanda/Kaka"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaba-chanda&repo=Kaka&theme=algolia" /></a>
 </p>
 
 ---
